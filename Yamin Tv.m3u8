@@ -21,18 +21,18 @@ http://103.230.105.252:1935/live/btv/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Gaan Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Nexus TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",Nexus TV
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi", ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 
