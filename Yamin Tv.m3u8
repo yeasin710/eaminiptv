@@ -1,21 +1,21 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld4rhZS/IMG-20231224-232137.jpg" group-title="Himel OP'S IPTV", Himel OP'S IPTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Himel OP'S IPTV", Himel OP'S IPTV
 https://1rdk.short.gy/Himel-Op-Official.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ld4rhZS/IMG-20231224-232137.jpg" group-title="Bangladeshi", Somoy TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi", Somoy TV
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Ekhon TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",Ekhon TV
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Movie Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",Movie Bangla
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",BTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",BTV HD
 http://103.230.105.252:1935/live/btv/manifest.mpd
 
 
