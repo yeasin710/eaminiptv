@@ -1,38 +1,38 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Himel OP'S IPTV", Himel OP'S IPTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmVnPfW/20231224-231322.png" group-title="Himel OP'S IPTV", Himel OP'S IPTV
 https://1rdk.short.gy/Himel-Op-Official.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi", Somoy TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Somoy TV
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",Ekhon TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Ekhon TV
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",Movie Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Movie Bangla
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",BTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",BTV HD
 http://103.230.105.252:1935/live/btv/manifest.mpd
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",Gaan Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi",Nexus TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Nexus TV
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/20231224-232817.png" group-title="Bangladeshi", ATN Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 
@@ -144,13 +144,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/ind
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Entertainment", Zee TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 
@@ -166,8 +159,6 @@ https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Movies", Sony Max HD 
-https://1rdk.short.gy/Himel-Op/set-max-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Movies", Colors Cineplex
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/.m3u8
@@ -189,244 +180,18 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fal
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Movies", Star Gold HD
-https://1rdk.short.gy/Star-Gold/Himel-Op.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Movies", Star Gold 2
-https://1rdk.short.gy/Star-Gold-2/Himel-Op.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Movies", Star Gold Select
-https://1rdk.short.gy/Star-Gold-Select/Himel-Op.ts
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Movies", Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Movies", Goldmines
-https://1rdk.short.gy/Goldmines/Himel-Op.ts
 
 
-
-                      
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="English Infotainment", Animal Planet HD 
-https://1rdk.short.gy/Animal-Planet-Muti/Himel-Op.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="English Infotainment", Travel-Xp Bangla
-https://1rdk.short.gy/Travel-Xp/Himel-Op.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="English Infotainment", Nat Geo Wild Bangla
-https://1rdk.short.gy/Nat-geo-wild/Himel-Op.ts
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="English Infotainment", Discovery Bangla
-https://1rdk.short.gy/Discovery-Bangla/Himel-Op.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="English Infotainment", History TV 18
-http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
-
-
-
-
- 
-
-
-             
                    
-                                                    
-
-
                                                    
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="English Movies", Sony PIX
-https://1rdk.short.gy/Himel-Op/sony-pix-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="English Movies", Star Movies
-https://1rdk.short.gy/Star-Movies/Himel-Op.m3u8
-
-
-                                                    
-
                                  
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sony Sports 5 HD
-https://1rdk.short.gy/Himel-Op/ten-5-hd.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sony Sports Ten 1 HD
-https://1rdk.short.gy/Himel-Op/ten-1-hd.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sony Sports Ten 2 HD
-https://1rdk.short.gy/Himel-Op/ten-2-hd.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sony Sports Ten 3 HD
-https://1rdk.short.gy/Himel-Op/ten-3-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sports18 1 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro Cricket
-https://himel-op@webudit.hlsjs.ru/lb/premium370/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sky Cricket
-https://himel-op@webudit.hlsjs.ru/lb/premium65/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Super Cricket
-https://himel-op@webudit.hlsjs.ru/lb/premium368/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Fox 501 HD
-https://himel-op@webudit.hlsjs.ru/lb/premium369/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Willow HD
-https://himel-op@webudit.hlsjs.ru/lb/premium346/index.m3u8|referer=https://weblivehdplay.ru/
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", PTV Sports HD
-https://himel-op@webudit.hlsjs.ru/lb/premium450/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 1
-https://himel-op@webudit.hlsjs.ru/lb/premium31/index.m3u8|referer=https://weblivehdplay.ru/
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 2
-https://himel-op@webudit.hlsjs.ru/lb/premium32/index.m3u8|referer=https://weblivehdplay.ru/
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 3
-https://himel-op@webudit.hlsjs.ru/lb/premium33/index.m3u8|referer=https://weblivehdplay.ru/
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", TNT Sports 4
-https://himel-op@webudit.hlsjs.ru/lb/premium34/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports 1 HD
-https://1rdk.short.gy/Star-Sports-1-HD/hls/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Hindi
-https://1rdk.short.gy/Star-Sports-Hindi-HD/hls/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports 2 HD
-https://1rdk.short.gy/Star-Sports-2-HD/hls/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports 3 
-https://1rdk.short.gy/Star-Sports-3/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Select 1 HD
-https://1rdk.short.gy/Star-Select-1/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Star Sports Select 2 HD
-https://1rdk.short.gy/Star-Select-2/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sky Sports Football
-https://himel-op@webudit.hlsjs.ru/lb/premium35/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Super EPL
-https://himel-op@webudit.hlsjs.ru/lb/premium414/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Sky Sports Main Event
-https://himel-op@webudit.hlsjs.ru/lb/premium38/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro SuperSports 1
-https://himel-op@webudit.hlsjs.ru/lb/premium123/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro SuperSports 2
-https://himel-op@webudit.hlsjs.ru/lb/premium124/index.m3u8|referer=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro SuperSports 3
-https://himel-op@webudit.hlsjs.ru/lb/premium125/index.m3u8|referer=https://weblivehdplay.ru/
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Sports", Astro SuperSports 4
-https://himel-op@webudit.hlsjs.ru/lb/premium126/index.m3u8|referer=https://weblivehdplay.ru/
-
-                   
-                                                    
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Music", MTV 
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Music", MTV Beats
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Music", 9X Music
-https://1rdk.short.gy/9XM/Himel-Op.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Music", 9x Jalwa
-https://1rdk.short.gy/9XJ/Himel-Op.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Music", 9X Tahsan
-https://1rdk.short.gy/9XT/Himel-Op
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Music", 9X Jhakkas
-https://1rdk.short.gy/9XJH/Himel-Op.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Music", Sangeet Bangla
-https://1rdk.short.gy/SB/Himel-Op.m3u8
-
-
-
-                    
-                   
-                                                    
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids",Duronto
-https://1rdk.short.gy/Duronto-Tv/Himel-Op.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Disney India
-https://1rdk.short.gy/Disney-IN/Himel-Op.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Hungama Kids
-https://1rdk.short.gy/Hungama/Himel-Op.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Nick Bangla
-http://himeop-premium.ddns.net:25461/live/web/web/615.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Sonic Hindi
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/Sonic_Nickelodeon_voot_MOB.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Nick JR
-https://1rdk.short.gy/Nick-Jr/Himel-Op.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Kids", Cartoon Network Hindi
-https://1rdk.short.gy/CN/Himel-Op.ts
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="VOD", Kung Fu Panda 1
-https://1rdk.short.gy/KFP-1/Himel-Op.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="VOD", Kung Fu Panda 2
-https://1rdk.short.gy/KFP-2/Himel-Op.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="VOD", Kung Fu Panda 3
-https://1rdk.short.gy/KFP-3/Himel-Op.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
