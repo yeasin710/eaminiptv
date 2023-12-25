@@ -1,4 +1,8 @@
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi" ,Dipto TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Somoy TV
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
@@ -6,34 +10,35 @@ https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Ekhon TV
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Movie Bangla
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",BTV HD
 http://103.230.105.252:1935/live/btv/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi"NEWS 24
+https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi"Jago News 24
+https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Nexus TV
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", ATN Music
+https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", ATN IslMIC
+https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Bangla Tv
+https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Banglavision HD
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
@@ -53,11 +58,8 @@ https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", DBC News
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Green TV 
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Independent TV
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
@@ -68,16 +70,20 @@ https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Ekushey TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Mohona TV HD
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Maasranga HD
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", News 24 HD
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", N Tv
+http://103.230.105.252:1935/live/ntv/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", RTV HD
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
@@ -86,8 +92,26 @@ https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Rajdhani Tv
+https://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Nexus Tv 
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Indian Bangla", Star jalsha
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Indian Bangla", Enterr 10
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Indian Bangla", Colors Bangla HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/.m3u8
@@ -97,19 +121,46 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Indian Bangla", Jalsha Movies
+http://chanel.dekhaott.com/starjalsha/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Indian Bangla", Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Indian Bangla", Zee 24 Ghonta 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+  
   
 
-                                              
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", DD National                                            
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", Colors HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", Zee Tv 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", Zee Tamil
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/zeeanmol.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", Zing 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", And TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", & Pictutes HD
+https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", & Pictutes HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", Comedy Central HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
@@ -142,21 +193,81 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Oriya_voot_MOB/Fallback/ind
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", Zee TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Entertainment", & Pictutes HD
-https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music", 9XM
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 
-                                             
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music",Mtv Beats
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music",Music India
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music",Sangeet Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music",9X Tashan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music", Zoom 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music", AB Masti
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music", Joo Music 
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music",Show Box
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Music",9X Jhakaas
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Star Movies 
+http://112.196.61.212:9292/STAR_MOVIES_FHD_VIDECON/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Bollywood 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Bollywood Prime 
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Zee Anmol Cinema 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Zee Action
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Zee Cinemalu
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Zee Bollywood 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Bflix Movies 
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Colors Cineplex
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/.m3u8
@@ -175,12 +286,37 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Kids" Disnep
+http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246763
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Kids" Khusbo Bangla
+http://103.223.14.56:8000/play/a0ti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Kids" Cartoon Network 
+https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Kids" POGO
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Kids"Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Kids" Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Kids" Deshi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Movies", Zee Cinema HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="SPORTS", beIN Sports EN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -341,6 +477,9 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy5.hlsjs.ru/ddy5/premium450/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="SPORTS" P Tv 
+http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="SPORTS", Star Sports 1
 https://cdn8.aliflailabd.com/star-sports-1/tracks-v1a1/mono.m3u8
@@ -706,7 +845,4 @@ https://ddh1.webhd.ru/ddh1/premium136/tracks-v1a1/mono.m3u8
 https://ddh1.webhd.ru/ddh1/premium137/tracks-v1a1/mono.m3u8
 
                    
-                                                   
-
-                                
-
+      
