@@ -1,11 +1,11 @@
- #EXTINF:-1 tvg-logo="https://i.ibb.co/vmVnPfW/20231224-231322.png" group-title="Yamin IPTV", Yamin IPTV
+ #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Yamin IPTV", Yamin IPTV
 "link": "https://1rdk.short.gy/Himel-Op-Official.m3u8",
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi", Somoy TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Somoy TV
 https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="Bangladeshi",Ekhon TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Ekhon TV
 https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 
 
