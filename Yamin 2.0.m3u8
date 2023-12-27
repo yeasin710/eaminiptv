@@ -3,13 +3,46 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Yamin iP TV", Yamin Vai
 https://drive.usercontent.google.com/download?id=13SQne8lwsT3dx_81RggW24GACSgg5a4b&export=download&authuser=0&confirm=t&uuid=3b7eccd9-bd96-48b7-b726-0b43dca30f2d&at=APZUnTVbjCJu-FRAAQYK0zXtce7a:1703564507057
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", BAN VS NZ
-https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 
-#EXTINF:-1 group-title="BDIX",Peace-tv-Bangla
+
+#EXTINF:-1 group-title="BDIX",Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
+#EXTINF:-1 ,Deepto TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 ,BTV World
+http://103.230.105.252:1935/live/btv/manifest.m3u8
 
+
+
+#EXTINF:-1 ,Star Jalsha
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
+#EXTINF:-1 ,Star Jalsha HD
+http://livetvbox.live:8080//live/7878/7878/23218.ts
+
+#EXTINF:-1 ,Sony AATH
+http://103.132.181.118:82/play/a009
+#EXTINF:-1 ,Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+#EXTINF:-1 ,Enter 10 Bangla
+http://103.132.181.118:82/play/a00n
+
+#EXTINF:-1 ,ZEE BANGLA HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+
+#EXTINF:-1 ,ZEE BANGLA CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+
+#EXTINF:-1 ,COLORS BANGLA HD
+https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 ,Color Bangla HD
+http://103.132.181.118:82/play/a008
+
+#EXTINF:-1 ,Jalsha Movie SD
+http://103.132.181.118:82/play/a00o
+#EXTINF:-1 ,Jalsha Movies HD
+http://103.132.181.118:82/play/a004
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF_xR7jwt6A3WuXuNd8xuWKwfSPVhpjE0KtA&usqp=CAU" group-title="SPORTS", Match! Football 1
