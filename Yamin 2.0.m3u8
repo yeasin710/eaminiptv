@@ -348,11 +348,11 @@ http://103.132.181.118:82/play/a004
 
 #EXTINF:-1 group-title="DOCUMENTARY",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",
+#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",
+#EXTINF:-1 group-title="DOCUMENTARY", Prog
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",
+#EXTINF:-1 group-title="DOCUMENTARY",Amagi Tv 
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
