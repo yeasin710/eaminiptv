@@ -10,15 +10,14 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4gxFmhv/images-9.jpg"group-title="Bangladeshi",Deepto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1 group-title="Bangladeshi",BTV World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mvZRrRX/btvhd.png"group-title="Bangladeshi",BTV World
 http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF:-1 group-title="Bangladeshi",Maasranga
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg" group-title="Bangladeshi",Maasranga
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Bangladeshi",Green TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Green TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi",CHANNEL S HD
