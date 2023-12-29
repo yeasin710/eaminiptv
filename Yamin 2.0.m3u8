@@ -5,6 +5,7 @@ https://drive.usercontent.google.com/download?id=13SQne8lwsT3dx_81RggW24GACSgg5a
 
 
 
+
 #EXTINF:-1 group-title="Bangladeshi",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
@@ -19,6 +20,8 @@ https://bdtubelive.000webhostapp.com/ayna.m3u8?id=36
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 group-title="Bangladeshi",Maasranga
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Bangladeshi",Green TV
@@ -51,7 +54,6 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangladeshi",SOMOY TV
 https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
 
-
 #EXTINF:-1 group-title="Bangladeshi",AB TV
 http://208.86.19.13:81/501.stream/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi",Deshi TV
@@ -68,6 +70,9 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://208.86.19.13:81/506.stream/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi",FB Tv
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="Bangladeshi",AB TV USA
@@ -146,8 +151,27 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi",TV ONE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/chunks.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,Music India
+https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_9_0.m3u8
+#EXTINF:-1 ,9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
 #EXTINF:-1 group-title="Music",V2BEAT TV Europe
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/v2beattv.stream/chunks.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Bangladeshi",ATN Bangla
@@ -173,7 +197,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi",Jago News 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi"" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",ATN Music
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",ATN Music
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi",BANGLAVISION
@@ -186,8 +210,11 @@ http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangladeshi",Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Zee Bangla HD 2
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8
+
+
+
+
+
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 ,TV9 Bangla (720p)
@@ -298,6 +325,9 @@ http://103.132.181.118:82/play/a009
 #EXTINF:-1 group-title="India Bangla",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
+#EXTINF:-1 ,Zee Bangla HD 2
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/thenayeemparvez.m3u8
+
 #EXTINF:-1 group-title="India Bangla",Enter 10 Bangla
 http://103.132.181.118:82/play/a00n
 
@@ -306,8 +336,10 @@ http://103.132.181.118:82/play/a00s
 #EXTINF:-1 ,Sun Bangla
 http://95.111.193.211:8106/play/a00z/index.m3u8
 
-#EXTINF:-1 group-title="Music",Sangeet Bangla(BD2)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="India Bangla",ZEE BANGLA CINEMA
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=2137600.m3u8
@@ -461,6 +493,7 @@ http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 http://103.120.172.74:1130
 #EXTINF:-1 ,Colors
 http://103.120.172.74:1070
+
 #EXTINF:-1 ,DD news
 http://103.120.172.74:1170
 #EXTINF:-1 ,India news
@@ -521,6 +554,14 @@ https://cdn.sajeeb.online/Sony-WAH/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
 
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,Travel XP HD(BD)
 http://b78e00fe.ottolok.net/iptv/ZFRMMY6UWRFLTT/9264/index.m3u8
 #EXTINF:-1 ,Xlpore English(BD)
@@ -573,6 +614,19 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 
 
 
+#EXTINF:-1 group-title="Music",Sangeet Bangla(BD2)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
+#EXTINF:-1 ,MusicIndia
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="kids",DISNEY HINDI
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246763
 #EXTINF:-1 group-title="kids",KHUSHBOO BANGLA
@@ -596,6 +650,11 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="DOCUMENTARY",NAT GEO HD
 http://103.132.181.118:82/play/a006
 #EXTINF:-1 group-title="DOCUMENTARY",Animal Planet
@@ -610,7 +669,6 @@ http://103.132.181.118:82/play/a007
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-
 #EXTINF:-1 group-title="DOCUMENTARY",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",
@@ -634,6 +692,25 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Tastemade Australia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1139,83 +1216,86 @@ https://ddy5.webhd.ru/ddy5/premium621/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SP: DD Sports" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/76354ae.png" group-title="SPORTS" ,SP: DD Sports
+
+
+
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/76354ae.png" group-title="SPORTS",DD Sports
 http://195.26.87.217/live.ts?channelId=74567&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: ESPN US 1 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/6f51588c" group-title="SPORTS" ,SP: ESPN US 1 FHD
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/6f51588c" group-title="SPORTS" ,ESPN US 1 FHD
 http://195.26.87.217/live.ts?channelId=271&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: EUROSPORT 1 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/2abd67b6" group-title="SPORTS" ,SP: EUROSPORT 1 FHD
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/2abd67b6" group-title="SPORTS" , EUROSPORT 1 FHD
 http://195.26.87.217/live.ts?channelId=272&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: EUROSPORT 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/37bb7740" group-title="SPORTS" ,SP: EUROSPORT 2 FHD
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/37bb7740" group-title="SPORTS" ,EUROSPORT 2 FHD
 http://195.26.87.217/live.ts?channelId=273&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: FIGHT BOX FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/fightbox.png" group-title="SPORTS" ,SP: FIGHT BOX FHD
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/fightbox.png" group-title="SPORTS" ,FIGHT BOX FHD
 http://195.26.87.217/live.ts?channelId=125426&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Flow Sports" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/919dbdf.png" group-title="SPORTS" ,SP: Flow Sports
+#EXTINF:-1  tvg-logo="http://ujm.from-in.com/panel/imageicon/919dbdf.png" group-title="SPORTS" ,Flow Sports
 http://195.26.87.217/live.ts?channelId=105348&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 501 Cricket FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/fdb00f7.png" group-title="SPORTS" ,SP: Fox Sports 501 Cricket FHD
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/fdb00f7.png" group-title="SPORTS", Fox Sports 501 Cricket FHD
 http://195.26.87.217/live.ts?channelId=36128&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: WORLD CUP AD FREE" tvg-link="" tvg-logo="http://tv.cloudcdn.online/images/iccworldcup.png" group-title="SPORTS" ,SP: WORLD CUP AD FREE
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.online/images/iccworldcup.png" group-title="SPORTS" ,WORLD CUP AD FREE
 http://195.26.87.217/live.ts?channelId=78845&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: FS1 FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/bb98eda.png" group-title="SPORTS" ,SP: FS1 FHD
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/bb98eda.png" group-title="SPORTS" ,FS1 FHD
 http://195.26.87.217/live.ts?channelId=102480&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Geo Super FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/14f64b64" group-title="SPORTS" ,SP: Geo Super FHD
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/14f64b64" group-title="SPORTS" , Geo Super FHD
 http://195.26.87.217/live.ts?channelId=274&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Jio Cricket English FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0ddc256.png" group-title="SPORTS" ,SP: Jio Cricket English FHD
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/0ddc256.png" group-title="SPORTS" , Jio Cricket English FHD
 http://195.26.87.217/live.ts?channelId=294&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: LIVE CRICKET FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/55c4fd3.png" group-title="SPORTS" ,SP: LIVE CRICKET FHD
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/55c4fd3.png" group-title="SPORTS" ,LIVE CRICKET FHD
 http://195.26.87.217/live.ts?channelId=102423&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: LIVE CRICKET FHD." tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/55c4fd3.png" group-title="SPORTS" ,SP: LIVE CRICKET FHD.
+#EXTINF:-1  tvg-logo="http://tv.cloudcdn.me/images/55c4fd3.png" group-title="SPORTS" ,LIVE CRICKET FHD.
 http://195.26.87.217/live.ts?channelId=87939&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Live Kabaddi" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/76e10fc7.jpg" group-title="SPORTS" ,SP: Live Kabaddi
+#EXTINF:-1  tvg-logo="http://ujm.from-in.com/imageicon/76e10fc7.jpg" group-title="SPORTS" ,Live Kabaddi
 http://195.26.87.217/live.ts?channelId=276&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: LIVE MATCH" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/ad3402b.png" group-title="SPORTS" ,SP: LIVE MATCH
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/ad3402b.png" group-title="SPORTS" ,LIVE MATCH
 http://195.26.87.217/live.ts?channelId=104607&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: MUTV FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/mutv.png" group-title="SPORTS" ,SP: MUTV FHD
+#EXTINF:-1  tvg-logo="http://tv.cloudcdn.me/images/mutv.png" group-title="SPORTS" ,MUTV FHD
 http://195.26.87.217/live.ts?channelId=125434&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: NBC GOLF FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/b5bc5c2f.jpg" group-title="SPORTS" ,SP: NBC GOLF FHD
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/imageicon/b5bc5c2f.jpg" group-title="SPORTS" ,BC GOLF FHD
 http://195.26.87.217/live.ts?channelId=341&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: One Golf TV" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/48c39d29.jpg" group-title="SPORTS" ,SP: One Golf TV
+#EXTINF:- tvg-logo="http://ujm.from-in.com/imageicon/48c39d29.jpg" group-title="SPORTS" , One Golf TV
 http://195.26.87.217/live.ts?channelId=33163&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: PREMIER SPORTS 1 FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/premiersports1.png" group-title="SPORTS" ,SP: PREMIER SPORTS 1 FHD
+#EXTINF:-1  tvg-logo="http://tv.cloudcdn.me/images/premiersports1.png" group-title="SPORTS" , PREMIER SPORTS 1 FHD
 http://195.26.87.217/live.ts?channelId=91158&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: PREMIER SPORTS 2 FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/premiersports2.png" group-title="SPORTS" ,SP: PREMIER SPORTS 2 FHD
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/premiersports2.png" group-title="SPORTS" ,PREMIER SPORTS 2 FHD
 http://195.26.87.217/live.ts?channelId=91159&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: PTV Sports FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SPORTS" ,SP: PTV Sports FHD
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SPORTS" , PTV Sports FHD
 http://195.26.87.217/live.ts?channelId=278&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: PTV Sports FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SPORTS" ,SP: PTV Sports FHD.
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/2c9c5c5.png" group-title="SPORTS" ,PTV Sports FHD.
 http://195.26.87.217/live.ts?channelId=279&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Racing TV FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/08971a4.png" group-title="SPORTS" ,SP: Racing TV FHD
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/08971a4.png" group-title="SPORTS" ,Racing TV FHD
 http://195.26.87.217/live.ts?channelId=37315&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Real Madrid TV FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/realmadridtv.png" group-title="SPORTS" ,SP: Real Madrid TV FHD
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/realmadridtv.png" group-title="SPORTS" , Real Madrid TV FHD
 http://195.26.87.217/live.ts?channelId=125433&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Arena FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/skysportsarena.png" group-title="SPORTS" ,SP: Sky Sports Arena FHD
+#EXTINF:-1 tvg-logo="http://tv.cloudcdn.me/images/skysportsarena.png" group-title="SPORTS" , Sky Sports Arena FHD
 http://195.26.87.217/live.ts?channelId=36132&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SP: SKY Sports Cricket FHD" tvg-link="http://iptvtree.net:8080/xmltv.php?username=umerzia660&password=bde56e335d&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/imageicon/skysportscricket.png" group-title="SPORTS" ,SP: SKY Sports Cricket FHD
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY Sports Cricket FHD" tvg-link="http://iptvtree.net:8080/xmltv.php?username=umerzia660&password=bde56e335d&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/imageicon/skysportscricket.png" group-title="SPORTS" ,SP: SKY Sports Cricket FHD
 http://195.26.87.217/live.ts?channelId=281&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SP: SKY Sports Cricket FHD." tvg-link="http://iptvtree.net:8080/xmltv.php?username=umerzia660&password=bde56e335d&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/imageicon/skysportscricket.png" group-title="SPORTS" ,SP: SKY Sports Cricket FHD.
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name=" SKY Sports Cricket FHD." tvg-link="http://iptvtree.net:8080/xmltv.php?username=umerzia660&password=bde56e335d&type=m3u&output=m3u" tvg-logo="http://ujm.from-in.com/imageicon/skysportscricket.png" group-title="SPORTS" ,SP: SKY Sports Cricket FHD.
 http://195.26.87.217/live.ts?channelId=35530&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports F1 FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/dcf6149.png" group-title="SPORTS" ,SP: Sky Sports F1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 FHD"tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/dcf6149.png" group-title="SPORTS" ,SP: Sky Sports F1 FHD
 http://195.26.87.217/live.ts?channelId=282&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Football FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/SkySportsFootballHD.png" group-title="SPORTS" ,SP: Sky Sports Football FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/SkySportsFootballHD.png" group-title="SPORTS" ,SP: Sky Sports Football FHD
 http://195.26.87.217/live.ts?channelId=308&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Golf FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/3060a9ae" group-title="SPORTS" ,SP: Sky Sports Golf FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/3060a9ae" group-title="SPORTS" ,SP: Sky Sports Golf FHD
 http://195.26.87.217/live.ts?channelId=283&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Main Event FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/1da91974" group-title="SPORTS" ,SP: Sky Sports Main Event FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/1da91974" group-title="SPORTS" ,SP: Sky Sports Main Event FHD
 http://195.26.87.217/live.ts?channelId=284&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Mix FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/skysportsmix.png" group-title="SPORTS" ,SP: Sky Sports Mix FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/skysportsmix.png" group-title="SPORTS" ,SP: Sky Sports Mix FHD
 http://195.26.87.217/live.ts?channelId=32489&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports News FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/57778ee2" group-title="SPORTS" ,SP: Sky Sports News FHD
+#EXTINF:-1 tvg-id="" tvg-name=" Sky Sports News FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/57778ee2" group-title="SPORTS" ,SP: Sky Sports News FHD
 http://195.26.87.217/live.ts?channelId=285&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports NFL FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/skyposrtsnfl.png" group-title="SPORTS" ,SP: Sky Sports NFL FHD
+#EXTINF:-1 tvg-id="" tvg-name=" Sky Sports NFL FHD" tvg-link="" tvg-logo="http://tv.cloudcdn.me/images/skyposrtsnfl.png" group-title="SPORTS" ,SP: Sky Sports NFL FHD
 http://195.26.87.217/live.ts?channelId=280&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Premier League FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/6f94df9d" group-title="SPORTS" ,SP: Sky Sports Premier League FHD
+#EXTINF:-1 tvg-id="" tvg-name=" Sky Sports Premier League FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/6f94df9d" group-title="SPORTS" ,SP: Sky Sports Premier League FHD
 http://195.26.87.217/live.ts?channelId=286&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Sports 1 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4fa225b.png" group-title="SPORTS" ,SP: Sony Sports 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 1 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4fa225b.png" group-title="SPORTS" ,SP: Sony Sports 1 FHD
 http://195.26.87.217/live.ts?channelId=289&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Sports 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e27626a.png" group-title="SPORTS" ,SP: Sony Sports 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name=" Sony Sports 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e27626a.png" group-title="SPORTS" ,SP: Sony Sports 2 FHD
 http://195.26.87.217/live.ts?channelId=290&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Sports 3 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/3a556ed.png" group-title="SPORTS" ,SP: Sony Sports 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name=" Sony Sports 3 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/3a556ed.png" group-title="SPORTS" ,SP: Sony Sports 3 FHD
 http://195.26.87.217/live.ts?channelId=291&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-id="" tvg-name="SP: Sony Sports 4 HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/eb923d9.png" group-title="SPORTS" ,SP: Sony Sports 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sports 4 HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/eb923d9.png" group-title="SPORTS" ,SP: Sony Sports 4 HD
 http://195.26.87.217/live.ts?channelId=105349&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="SP: Sony Sports 5 HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9327ac5.png" group-title="SPORTS" ,SP: Sony Sports 5 HD
 http://195.26.87.217/live.ts?channelId=105350&uid=7435&deviceMac=00:1A:79:51:4B:3A
