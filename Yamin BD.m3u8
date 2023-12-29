@@ -538,8 +538,6 @@
 	#EXTINF:-1 ,MusicIndia
 	http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
-
-
 	#EXTINF:-1 ,Music India
 	https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_9_0.m3u8
 	#EXTINF:-1 ,9XM
@@ -571,11 +569,10 @@
 	https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 	#EXTINF:-1 group-title="kids",TOON TUBERS
 	https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-	#EXTINF:-1 group-title="KIDS",Prosto
-	http://iptv.prosto.tv:7000/ch207/video.m3u8
-	#EXTINF:-1 group-title="kIDS",PBS KIDS
+	
+	#EXTINF:-1 group-title="kids",PBS KIDS
 	https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-	#EXTINF:-1 group-title="KIDS",Zoo Moo
+	#EXTINF:-1 group-title="Kids",Zoo Moo
 	https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 	#EXTINF:-1 group-title="kids",POGO
 	https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
