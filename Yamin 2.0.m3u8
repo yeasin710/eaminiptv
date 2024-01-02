@@ -101,7 +101,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mGGCTCR/NAN-TV-41.png"group-title="Bangladeshi",NAN TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png"group-title="Bangladeshi",NRB HDfu
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xgkh56k/download-3.png"group-title="Bangladeshi",NRB HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg"group-title="Bangladeshi",NTV EUROPE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
@@ -135,7 +135,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png",BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Sx3qSXvr/Cumilla-TV.jpg",Cumilla TV
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/Sx3qSXvr/Cumilla-TV.jpg",Cumilla TV
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4N4yTMwD/0385Pju.jpg", group-title="Bangladeshi",Maasranga HD
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
@@ -143,52 +143,29 @@ http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png",Nexus TV
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png",Bangla TV
-http://aanax.com:8080/live/F31513/0a3204ef/296842.ts
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png",Bangla TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/live-orgin/banglatvhd.stream/chunks.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="Bangladeshi",Channel 24
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/Ls4n3800/MmhxR5E.png",Channel 24
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi",Bijoy TV
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png",Bijoy TV
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi",Green TV
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png",Green TV
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi",Khushboo Bangla(BD2)
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 group-title="Bangladeshi",DESHI TV
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/wBXp2pkd/GKBkm2e.png",DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi", DESH TV
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/VNVjKxsD/Deshtv.png", DESH TV
 http://galaxyiptv.pro:8080/asimbutt/000423/178396
-#EXTINF:-1 group-title="Bangladeshi", Bangla tv
-http://galaxyiptv.pro:8080/asimbutt/000423/178405
-#EXTINF:-1 group-title="Bangladeshi", Biswa-Bangla HD
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/rmYFhLRh/cropped-cropped-BBLogo-1.jpg", Biswa Bangla HD
 http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1 group-title="Bangladeshi", ETV BANGLA
-http://galaxyiptv.pro:8080/asimbutt/000423/178418
-
-#EXTINF:-1 group-title="Bangladeshi",Peace Tv Bangla
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png",ETV BANGLA
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
-
-#EXTINF:-1 group-title="India Bangla",Bangla Jago
-http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 ,CNN Bangla
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/MG5jL6dW/image.jpg",CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
-
-#EXTINF:-1 ,Nandan TV
+#EXTINF:-1 group-title="Bangladeshi"tvg-logo="https://i.postimg.cc/tJ69JZpt/image.jpg",Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 ,AB Ananda Barta
-http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
-
-#EXTINF:-1 ,MAASRANGA TV official
-http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1 ,Khusboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
-
 
 
 
@@ -263,12 +240,14 @@ http://103.132.181.118:82/play/a004
 
 #EXTINF:-1 group-title="India Bangla",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
-
 #EXTINF:-1 group-title="India Bangla",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://www.tbn24.com/public/website_logo.png",TBN 24 USA
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
-
+#EXTINF:-1 group-title="Indian Bangla"tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cJmt7H7w/Ananda-Barta-logo.png",AB Ananda Barta
+http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 
 
 
