@@ -259,7 +259,7 @@ http://103.132.181.118:82/play/a00j
 http://103.132.181.118:82/play/a00g
 #EXTINF:-1 tvg-logo="tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png"group-title="Indian", J Movie
 http://103.132.181.118:82/play/a00o
-#EXTINF:-1 logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png"group-title="Indian",Brat TV 
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png"group-title="Indian",Brat TV 
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/V6Mfc4Yt/Sony-MAX.png",Sony MAX HD
 http://103.132.181.118:82/play/a00c
@@ -269,51 +269,50 @@ http://103.132.181.118:82/play/a00h
 http://103.132.181.118:82/play/a00e
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/x1V0n6KH/Star-Gold-Romance.png",Star Gold Romance
 http://103.132.181.118:82/play/a00m
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png",Zee TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png",Zee Tv HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema HD
 http://103.132.181.118:82/play/a00i
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png",Zee Tv HD
-http://103.132.181.118:82/play/a00f
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+
 
 #EXTINF:-1 ,HISTORY
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 ,HISTORY 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 
-#EXTINF:-1 ,Zee TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
-#EXTINF:-1 ,Zee TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
-#EXTINF:-1 ,&TV
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg",&TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
-#EXTINF:-1 ,&TV HD
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/nhQ3JzH9/download-5.jpg,&TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 ,Zee Anmol
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
-#EXTINF:-1 ,Zee Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#EXTINF:-1 ,Zee Cinema HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
-#EXTINF:-1 ,&Pictures
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/B6Xh5bCL/picture.jpg",&Pictures
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
-#EXTINF:-1 ,&Pictures HD
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/B6Xh5bCL/picture.jpg",&Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-#EXTINF:-1 ,Zee Bollywood
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/xC1mgf80/Zee-Bollywood1.jpg",Zee Bollywood
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
-#EXTINF:-1 ,Zee Action
+#EXTINF:-1  group-title="Indian" tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png",Zee Action
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
-#EXTINF:-1 ,Zee Anmol Cinema
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
-#EXTINF:-1 ,Zee News
+#EXTINF:-1  group-title="Indian" tvg-logo="https://i.postimg.cc/wTgPj599/image.jpg",Zee News
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
-#EXTINF:-1 ,Zee Hindustan
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/4yhj7Tz5/Zee-Hindustan1.jpg" ,Zee Hindustan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
-#EXTINF:-1 ,Zee Business
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/GpvFRFWH/Zee-Business.png" ,Zee Business
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
-#EXTINF:-1 ,Wion
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/jSv6JJBp/WION-TV-logo.jpg",Wion
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
-#EXTINF:-1 ,Zing
+#EXTINF:-1group-title="Indian" tvg-logo="https://i.postimg.cc/dVw9GC6m/download-2.jpg",Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 #EXTINF:-1 ,Zee Salaam
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
