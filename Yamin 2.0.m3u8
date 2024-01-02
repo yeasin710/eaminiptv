@@ -233,25 +233,25 @@ http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 
 
 
-#EXTINF:-1 logo="https://i.postimg.cc/fRdzvBYm/lhjj94a.png"group-title="English",Brat TV 
-https://brat-rakuten.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Movie" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20TV.png",Sony TV HD(BD)
-http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="Movie",Star Movies
 https://edge2.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg",& Flix HD
-http://103.132.181.118:82/play/a00x
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="Movie",& Picture
-http://103.132.181.118:82/play/a01c
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="Movie",& Picture HD
-http://103.132.181.118:82/play/a01b
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="Movie",Colors HD
-http://103.132.181.118:82/play/a00g
 
-#EXTINF:-1 tvg-logo="tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg"group-title="Movie", J Movie SD
+
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg",& Flix HD
+http://103.132.181.118:82/play/a00x
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png" group-title="Hindi",& Picture HD
+http://103.132.181.118:82/play/a01b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="Hindi",Colors HD
+http://103.132.181.118:82/play/a00g
+#EXTINF:-1 tvg-logo="tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png"group-title="Movie", J Movie
 http://103.132.181.118:82/play/a00o
+#EXTINF:-1 logo="https://i.postimg.cc/fRdzvBYm/lhjj94a.png""group-title="Movie",Brat TV 
+https://brat-rakuten.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 ,MN+ Movies
 http://103.132.181.118:82/play/a00t
