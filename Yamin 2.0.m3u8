@@ -10,14 +10,13 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="Live", T Sports
+#EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png"group-title="Live", T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live",Green TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/T10_League_Logo.png" group-title="LIVE EVENT", Abu Dhabi T10
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE FOOTBALL" tvg-logo="https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png" group-title="Live", LIVE FOOTBALL
+#EXTINF:-1 tvg-id="" tvg-name="LIVE FOOTBALL" tvg-logo="https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png" group-title="Live",Football
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="Live", Live
 http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8
