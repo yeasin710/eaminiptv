@@ -22,20 +22,20 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8
 
 
-	
+
 	
 
-#EXTINF:-1 group-title="News",Jamuna TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="News",Jamuna TV
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="News",Ekattor TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="News",Ekattor TV HD
 http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 group-title="News",Independent TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="News",Independent TV
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="News",DBC News
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="News",DBC News
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="News",N Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg" group-title="News",N Tv
 http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1 group-title="News",News 24 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg" group-title="News",News 24 HD
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
 	
 	
