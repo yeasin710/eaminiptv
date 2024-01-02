@@ -230,21 +230,8 @@ https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/cJmt7H7w/Ananda-Barta-logo.png",AB Ananda Barta
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="Movie",Star Movies
-https://edge2.laotv.la/live/StarMovie/index.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/mDD2zhpG/MNplus.png",MN+ HD
-http://103.132.181.118:82/play/a00t
-#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/2SFqZdPm/PIX-HD-WHITE.png",PIX
-http://103.132.181.118:82/play/a00y
-#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png",Movie Sphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 ,DD National(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 
 
@@ -288,14 +275,19 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 ,HISTORY 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1 ,History TV 18
+http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
 
 
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg",&TV
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg",& TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/nhQ3JzH9/download-5.jpg,&TV HD
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/nhQ3JzH9/download-5.jpg",& TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/B6Xh5bCL/picture.jpg",&Pictures
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/B6Xh5bCL/picture.jpg",& Pictutes HD
+https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/B6Xh5bCL/picture.jpg",&Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/xC1mgf80/Zee-Bollywood1.jpg",Zee Bollywood
@@ -314,85 +306,33 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
 #EXTINF:-1group-title="Indian" tvg-logo="https://i.postimg.cc/dVw9GC6m/download-2.jpg",Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
-#EXTINF:-1 ,Zee Salaam
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/qq1Hydq6/Salaam-TV.jpg",Zee Salaam
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
-#EXTINF:-1 ,Zee Marathi
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/05TY1Jy3/1666090575-Zee-Marathi.jpg",Zee Marathi
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
-#EXTINF:-1 ,Zee Marathi HD
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/YS0GWpSY/zee-tv-marathi-hd.jpg",Zee Marathi HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
-#EXTINF:-1 ,Zee Talkies
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/FR1B8JHz/image.jpg",Zee Talkies
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
-#EXTINF:-1 ,Zee Talkies HD
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/Qd4gPY9g/zee-talkies-hd-hover.jpg",Zee Talkies HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
-#EXTINF:-1 ,Zee Tamil
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/JnPRcXdh/Zee-Tamil.png",Zee Tamil
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
-#EXTINF:-1 ,Zee Cinemalu
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/ZYs328jF/Zee-Cinemalu.png",Zee Cinemalu
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
-#EXTINF:-1 ,Zee Kannada
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/nznv9KBw/800px-Zee-Kannada.png",Zee Kannada
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
-#EXTINF:-1 ,& Pictutes HD
-https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
-#EXTINF:-1 ,History TV 18
-http://112.196.61.212:9292/HISTORY_TV18_FHD_VIDECON/index.m3u8
-#EXTINF:-1 ,And TV
-http://103.120.172.74:1130
-#EXTINF:-1 ,Colors
-http://103.120.172.74:1070
 
-#EXTINF:-1 ,DD news
-http://103.120.172.74:1170
-#EXTINF:-1 ,India news
-http://103.120.172.74:1090
-#EXTINF:-1 ,MTV
-http://103.120.172.74:4400
-#EXTINF:-1 ,NDTV
-http://103.120.172.74:5500
-#EXTINF:-1 ,Sony SET India
-http://103.120.172.74:1110
-#EXTINF:-1 ,Star Gold
-http://103.120.172.74:5000
-#EXTINF:-1 ,Star sports2
-http://103.120.172.74:4200
-#EXTINF:-1 ,Star Pravah
-http://103.120.172.74:1060
-#EXTINF:-1 ,StarPlus
-http://103.120.172.74:4300
-#EXTINF:-1 ,StarPlus
-http://103.120.172.74:1120
-#EXTINF:-1 ,Star Bharathttp://103.120.172.74:5200
-#EXTINF:-1 ,Sony Max
-http://103.120.172.74:1150
-#EXTINF:-1 ,Zee Marathi
-http://103.120.172.74:1040
-#EXTINF:-1 ,Zee TV
-http://103.120.172.74:4000
-#EXTINF:-1 ,Zee TV
-http://103.120.172.74:1140
-#EXTINF:-1 ,Zee Cinema
-http://103.120.172.74:4100
 
-#EXTINF:-1 ,R Plus Gold(BD2)
-http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 
-#EXTINF:-1 ,Sony TV(BD)
-https://cdn.sajeeb.online/Sony-Set/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 ,Sony Sab(BD)
-https://cdn.sajeeb.online/Sony-SAB/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 ,Zee TV(BD)https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/zeetv-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 ,And TV(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 ,DD National(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 ,Sony Max HD(BD)
-https://cdn.sajeeb.online/Sony-MAX/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 ,Sony Max(BD)
-http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
-#EXTINF:-1 ,Sony Max 2(BD)
-https://cdn.sajeeb.online/Sony-MAX-2/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1#EXTINF:-1 ,Sony Max 2(BD)http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 ,Sony Wah(BD)
-https://cdn.sajeeb.online/Sony-WAH/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 ,ATN Abganisthan
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="Movie",Star Movies
+https://edge2.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/mDD2zhpG/MNplus.png",MN+ HD
+http://103.132.181.118:82/play/a00t
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/2SFqZdPm/PIX-HD-WHITE.png",PIX
+http://103.132.181.118:82/play/a00y
+#EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png",Movie Sphere
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
 
