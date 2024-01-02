@@ -61,7 +61,7 @@ http://162.244.81.200:1935/live/livestream/playlist.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png"group-title="Bangladeshi",ATN BANGLA UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png"group-title="Bangladeshi",ATN ISLAMIC TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png"group-title="Bangladeshi",ATN ISLAMIC TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",ATN Music
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/chunks.m3u8
@@ -172,9 +172,9 @@ https://web.nandansyst.com/hls/nandan.m3u8
 
 
 
-#EXTINF:-1 group-title="News",DW NEWS
+#EXTINF:-1 group-title="News"tvg-logo="https://i.postimg.cc/JhMgPGJJ/9XvvPo9.png",DW NEWS
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="News",France 24
+#EXTINF:-1 group-title="News"tvg-logo="https://i.postimg.cc/SKBZh6rb/1200px-FRANCE-24-logo-svg.png",France 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/chunks.m3u8
 
 
@@ -223,7 +223,7 @@ http://103.132.181.118:82/play/a004
 
 #EXTINF:-1 group-title="India Bangla"tvg-logo="https://i.postimg.cc/t7Gn9VtZ/abpananda.png",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://www.tbn24.com/public/website_logo.png",TBN 24 USA
+#EXTINF:-1 group-title="India Bangla"  tvg-logo="https://i.postimg.cc/nL1VSHFx/favicon.png",TBN 24 USA
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla"tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png",Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
