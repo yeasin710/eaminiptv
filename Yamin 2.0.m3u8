@@ -484,30 +484,42 @@ http://195.26.87.217/live.ts?channelId=252&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 
-
-#EXTINF:-1 group-title="DOCUMENTARY",NAT GEO HD
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png",National Geographic HD
 http://103.132.181.118:82/play/a006
-#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png",NAT GEO HD
+http://103.132.181.118:82/play/a006
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet
 https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet HD
+
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet HD
 http://103.132.181.118:82/play/a00w
 #EXTINF:-1 group-title="DOCUMENTARY",Discovery
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Discovery HD
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery HD
 http://103.132.181.118:82/play/a007
-#EXTINF:-1 group-title="DOCUMENTARY",Discovery Science
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery HD Bangla
+https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery HD Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/ZqbG8DVf/download-4.jpg",Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Animal Planet
-https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Prog
+#EXTINF:-1 group-title="DOCUMENTAR" tvg-logo="https://i.postimg.cc/6p6bJthT/image.jpg",Food Food
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTAR" tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png",Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1 group-title="DOCUMENTAR" tvg-logo="https://i.postimg.cc/9048QL7w/image.jpg",HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+#EXTINF:-1 group-title="DOCUMENTAR" tvg-logo="https://i.postimg.cc/26nhL8bs/image.png",Law and Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTAR" tvg-logo="https://i.postimg.cc/DzZsrvqk/love-nature.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png",CGTN (Prog)
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Amagi
+#EXTINF:-1 group-title="DOCUMENTARY"  tvg-logo="https://i.postimg.cc/ZK8rJCSd/Tastemade.png",Tastemade Australia
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Wild Earth(BD)
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/Prq4T7TH/09d12195e0968c34e9eac0feb5d8c2fc9cd75eba32c1e5dcd3c6a98e9becabfe.png",Wild Earth(BD)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/0yjXWsXr/KLBorkM.png",Travel XP HD(BD)
 http://b78e00fe.ottolok.net/iptv/ZFRMMY6UWRFLTT/9264/index.m3u8
@@ -515,21 +527,20 @@ http://b78e00fe.ottolok.net/iptv/ZFRMMY6UWRFLTT/9264/index.m3u8
 http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/nzLTypBm/NasaTV.jpg",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 group-title="DOCUMENTARY",NASA TV Media
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/cLkgbx3K/I4Ekyaq.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",NASA TV Public
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/nzLTypBm/NasaTV.jpg",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Outdoor Channel
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/j5BPQzs5/image.jpg",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Outside TV Plus
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/xjR9m9tr/outside-tv-logo-vector.png",Outside TV Plus
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Smithsonian Channel Asia
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/Fz5LPQjs/smithsonian-channel-logo.jpg",Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY",Tastemade Australia
-
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/ZK8rJCSd/Tastemade.png",Tastemade Australia
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 
 
 
