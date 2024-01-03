@@ -583,28 +583,20 @@ http://103.109.56.116/live/skyfeed1006/index.m3u8
 https://ddy5.hlsjs.ru/ddy5/premium450/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1vRIzeMg_pzAb-M26FQbUsyKQvAZvVV1Mw&usqp=CAU" group-title="SPORTS",Star Sports 1
-https://freeiptv25.bdiptv24.repl.co/live/bdix/StarSports1HD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="SPORTS", Star Sports HD
-http://10.192.0.3:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=503d6e22cffcdf60eed4ec039a346e236af30343-81ba92c91fb6b827b031f894ef1cbb1e-1704299585-1704288785
-
-
+#EXTINF:-1 tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="SPORTS", Star Sports 1
+http://10.192.0.3:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=eb4455b8749505f4db79c62c86963414a8dee426-28474028e9438c7d7fbc4bf4a8f3f78a-1704300764-1704289964
 
 #EXTINF:-1 tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="SPORTS", Star Sports 2
-http://10.192.0.3:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=503d6e22cffcdf60eed4ec039a346e236af30343-81ba92c91fb6b827b031f894ef1cbb1e-1704299585-1704288785
-
+http://10.192.0.3:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=d6e5ebfb5915e545b73183df3222316ba07fe2d7-69246ebd24966b032fba776c72cf075b-1704300907-1704290107
 
 #EXTINF:-1 tvg-logo="https://img.viewcineplex.com/images/starsports3.png" group-title="SPORTS", Star Sports 3
-http://10.192.0.3:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=503d6e22cffcdf60eed4ec039a346e236af30343-81ba92c91fb6b827b031f894ef1cbb1e-1704299585-1704288785
+http://10.192.0.3:8082/Star-Sports-3/tracks-v1a1/mono.m3u8?token=ecedbf6ac8d9d358aa4353276dbcd80130d78829-a0dfdcb3cb356d529568f272931f2f61-1704301082-1704290282
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/StarSports Select HD1667750883.png" group-title="SPORTS", Star Sports SL 1
-http://10.192.0.3:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=503d6e22cffcdf60eed4ec039a346e236af30343-81ba92c91fb6b827b031f894ef1cbb1e-1704299585-1704288785
+http://10.192.0.3:8082/Star-Select-1/tracks-v1a1/mono.m3u8?token=086811ac4d58358790ce8509afb7c7b62eb11b4b-69c964f2b1f01cb48ff2a96e6ca4f1d1-1704300996-1704290196
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Star Sports Select 21667750897.png" group-title="SPORTS", Star Sports SL 2
-http://10.192.0.3:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=503d6e22cffcdf60eed4ec039a346e236af30343-81ba92c91fb6b827b031f894ef1cbb1e-1704299585-1704288785
-
+http://10.192.0.3:8082/Star-Select-2/tracks-v1a1/mono.m3u8?token=de5fb09bf8a21cf89cdd8d83ea9344a13003d577-f0c46e2740c3df5fe28369df5f4ca8e7-1704299947-1704289147
 
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="SPORTS", Sony Ten 1
