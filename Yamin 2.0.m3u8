@@ -12,7 +12,7 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png"group-title="Live", T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Live",Gazi TV 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3NcKs8p/thequint-2023-12-7075a737-c19a-4a58-aff1-a223a2de9009-India-vs-South-Africa-2nd-T20-I.jpg" group-title="Live",IND VS SA 
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live",Green TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
