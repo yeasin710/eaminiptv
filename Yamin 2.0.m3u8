@@ -484,7 +484,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
 
-
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png",NAT GEO Wild
+https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8 
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/ByMkKM0/National-Geographic-logo.png",National Geographic HD
 http://103.132.181.118:82/play/a006
@@ -593,7 +594,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://ddy5.hlsjs.ru/ddy5/premium450/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="SPORTS", Star Sports 1
+#EXTINF:-1 tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="SPORTS", Star Sports 1s
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=42&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="SPORTS", Star Sports 2
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=43&e=.m3u8|User-Agent=bdsajib
@@ -631,6 +632,25 @@ http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCU
 https://247b.mrgamingstreams.com/mrgamingtennis.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png",Tennis Channel [UK]
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/5Y6tr4q/1200px-J-Sports-Logo-svg.png",J sports 1 
+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/gdgFsWn/images-10.png",J sports 2 
+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/NWtsRcw/IMG-20240111-101531.png",J sports 3 
+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/h9tv3pd/download-1.png",J sports 4
+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+
+
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
