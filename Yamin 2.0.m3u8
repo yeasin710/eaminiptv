@@ -29,7 +29,8 @@ http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg" group-title="News",Jamuna TV
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png" group-title="News",Ekattor TV HD
-http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png" group-title="News",Independent TV
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png" group-title="News",DBC News
@@ -88,17 +89,20 @@ http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 
 
-	
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png",Ekhon TV
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
 	
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg" group-title="Bangladeshi",Maasranga Tv
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t2yF3bK/images-18.jpg"group-title="Bangladeshi"",Eten TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t2yF3bK/images-18.jpg"group-title="Bangladeshi",Eten TV
 https://iptvbd.live/test/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rn1SSqx/FBTV.jpg"group-title="Bangladeshi",Florida Bangla TV
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
-
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="Bangladeshi",Asian TV
+https://nayeem-ayna1.000webhostapp.com/aynax.php?id=24&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png"group-title="Bangladeshi",ATN BANGLA UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj2Ltj6/image.png"group-title="Bangladeshi",ATN ISLAMIC TV
@@ -135,7 +139,10 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ZjQdC7/unnamed-1.png"group-title="Bangladeshi",MILLENNIUM TV 24 NEWS
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/993kjV2/Picsart-23-06-09-16-17-31-424.png" group-title="Bangladeshi", CHANNEL S
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJX90Rv/logo.jpg" group-title="Bangladeshi", CHANNEL 52
+http://208.86.19.13:81/503.stream/index.m3u8?
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/0QR8v4jC/NOBANNOtv-10-Copy-1024x402-1.png",Nobanno TV 
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png"group-title="Bangladeshi",MOVIE BANGLA
@@ -615,6 +622,20 @@ http://10.192.0.3:8082/Sony-Ten-5/tracks-v1a1/mono.m3u8?token=0fcb74bad46811ed55
 https://livevoot.co.in//voot/master.m3u8?id=Sports18_1_HD_voot_MOB
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbuuZQ5zlkKglnLKA1CWhlqbHIeE1EzNaog&usqp=CAU" group-title="SPORTS", Sports 18 Khel
 https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/fTcTFsf5/WWE-and-SS.jpg",SuperSport WWE
+http://supersonictv.live:8080/419094/970686/86878
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/g2TtQqvn/image.jpg",WWE [Malaysia]
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1698
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/K8YZbT2b/Ten-Sports-HD.jpg",Ten Sports HD
+http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png",Tennis Channel
+https://247b.mrgamingstreams.com/mrgamingtennis.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png",Tennis Channel [UK]
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
