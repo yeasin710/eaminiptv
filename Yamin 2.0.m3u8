@@ -44,6 +44,12 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/T10_League_Logo.png" group-title="Live", Abu Dhabi T10
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_2.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxhuPtYddDKjcDHwc4X3dbYq1CjDmB3xfGw&usqp=CAU" group-title="Live",SA20
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m2_130124/master.m3u8
+
+#EXTINF:-1 group-title="Live" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Sky Cricket
+https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Live",Willow HD
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
@@ -670,8 +676,6 @@ https://nayeem-ayna1.000webhostapp.com/aynax.php?id=79&e=.m3u8|User-Agent=nayeem
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="SPORTS", Sony Ten 5
 http://103.120.172.74:5300
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS", WILLOW HD
-https://hls.streambtw.com/live/stream_e1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/PSrgydV.jpg",Willow HD
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
