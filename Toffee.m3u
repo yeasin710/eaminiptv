@@ -1,13 +1,45 @@
 [
   {"name":"Yamin Vai",
-"link":"https://video-private-assets.canva.com/VAF597qQ9_k/v/8b9fbc7984.mp4?exp=1705341120000&cf-ck=1JaT5-pqOyISdX7HM3Wy9dxGOby1CP3BSHT1VpaYLYQ&cf-sig=q9JyQHfP628_I47WOB8Ka2qSL7gKPvwk4NimOAFP2-A&cf-sig-kid=CO7cCjZ_YiI=&sig=EGXKMhJYGjsPRrFq3tshmihqiBTg6agPFxPEzBcoscE&sig-kid=GzFgFdhXD-Q=",
+"link":"https://drive.google.com/file/d/1Cp8WRJsEnqqV_h0AHtgDp_OVTJV5rWFj/view?usp=drivesdkWOB8Ka2qSL7gKPvwk4NimOAFP2-A&cf-sig-kid=CO7cCjZ_YiI=&sig=EGXKMhJYGjsPRrFq3tshmihqiBTg6agPFxPEzBcoscE&sig-kid=GzFgFdhXD-Q=",
 "logo":"https://i.ibb.co/zZGg7Fj/Eamin-Vai.png",
 "origin":"https://bldcmprod-cdn.toffeelive.com",
 "referrer":"https://bldcmprod-cdn.toffeelive.com",
 "userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
 "cookie":""},
   
-  
+  {
+    "name": "Zee Bangla",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1705452668:KeyName=prod_linear:Signature=XyY6Zrnlsb43HPvd3k589uJNgxD0AXwRkDGWPntH99nH0xtCMwkNfMc-I0a4Iq7ESunJNakUDPCSlKAQqYmrDw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Star Jalsha VIP",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/star_jalsha/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1705452668:KeyName=prod_linear:Signature=XyY6Zrnlsb43HPvd3k589uJNgxD0AXwRkDGWPntH99nH0xtCMwkNfMc-I0a4Iq7ESunJNakUDPCSlKAQqYmrDw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Somoy TV",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1705452668:KeyName=prod_linear:Signature=XyY6Zrnlsb43HPvd3k589uJNgxD0AXwRkDGWPntH99nH0xtCMwkNfMc-I0a4Iq7ESunJNakUDPCSlKAQqYmrDw",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 
   {
     "name": "SONY SPORTS TEN 2 HD",
