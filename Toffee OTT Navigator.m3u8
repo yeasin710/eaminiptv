@@ -1,5 +1,6 @@
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Yamin Tv", Yamin Vai
+#EXTINF:-1 group-title="About Yamin Vai" tvg-chno="" tvg-id="" tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png", Yamin Vai
+##EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=
 https://video-private-assets.canva.com/VAF5-F3kpZw/v/dcd42762aa.mp4?exp=1705344060000&cf-ck=rlG3kENE5B3pZgWoFTyFcIi48zgZ0pSDOHd
 
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg", T Sports Live 2
