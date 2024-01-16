@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Yamin Tv", Yamin Vai
-https://video-private-assets.canva.com/VAF5-F3kpZw/v/dcd42762aa.mp4?exp=1705344060000&cf-ck=rlG3kENE5B3pZgWoFTyFcIi48zgZ0pSDOHdPC0ASl7Y&cf-sig=8EGDanqG_BMzZjnOqHsqLuFGPM-NPCHalqoYBqmY4QE&cf-sig-kid=CO7cCjZ_YiI=&sig=USYJ9InHbw3PRrVUvnlysISTzkLxPCrXjyEQ9YERqTI&sig-kid=GzFgFdhXD-Q=
+https://1drv.ms/v/c/44fef8d0a4de933e/ERW9Ei5zdJNJhxdJ3jN7OnoBIAyzfWD1wpI7Hm1sdOX8iw?e=YzZZa7
 
 
 
@@ -98,8 +98,7 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/T1cYFfqg/image.jpg",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Republic_Bangla_logo.png" group-title="News", REPUBLIC BANGLA
-https://republic-bangla.mssarena71.workers.dev/stream/republicbangla/master.m3u8
+
 #EXTINF: -1 tvg-logo="https://calcuttanews.tv/cnlogonew.png" group-title="News", CALCUTTA NEWS
 https://calcutta-news.mssarena71.workers.dev/stream/calcuttanews/master.m3u8
 #EXTINF: -1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2018/12/Zee-Channel-Logo_zee-24-ghanta_280-X-200.jpg" group-title="News", ZEE 24 GHANTA
