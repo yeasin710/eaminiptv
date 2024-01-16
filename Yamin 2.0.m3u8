@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Yamin Tv", Yamin Vai
-https://1drv.ms/v/c/44fef8d0a4de933e/ERW9Ei5zdJNJhxdJ3jN7OnoBIAyzfWD1wpI7Hm1sdOX8iw?e=YzZZa7
+https://video-upload.canva.com/VAF6Aiuvots.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHUOZBYYF5%2F20240115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240115T225009Z&X-Amz-Expires=17804&X-Amz-Signature=a5b94cc7890393f75bed7e83ec742293fc3f679c12ccc13fb6e36f88df08fa21&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Eamin%2520Talukdar%2520Rony.mp4&response-expires=Tue%2C%2016%20Jan%202024%2003%3A46%3A53%20GMT
 
 
 
@@ -106,8 +106,6 @@ https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 #EXTINF:-1 group-title="News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg", group-title="News",CNN
-https://nayeem-ayna1.000webhostapp.com/aynax.php?id=63&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a4e2e38d-6a60-409e-9419-40b9fd97e29a_180x180_bbcnews.jpeg",group-title="News",BBC News
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=64&e=.m3u8|User-Agent=nayeemxyz9
 	
