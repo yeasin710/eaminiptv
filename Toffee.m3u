@@ -8,17 +8,6 @@
 "cookie":""
    },
 {
-    "name": "IND 🆚 AFG",
-    "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_t2003170124/master.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZ-U9Eq2NJr4NZvTFtg-b-ueBNfij7BaK2g&usqp=CAU",
-    "origin": "",
-    "referer": "",
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-{
     "name": "Green Tv",
     "link": "https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",
@@ -36,16 +25,6 @@
     "name": "T Sports HD",
     "link": "http://113.212.111.246:8080/hls/col12.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-   {
-    "name": "Astro Cricket",
-    "link": "https://webudit.webhd.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",
-    "origin": "http://195.26.87.217",
-    "referrer": "http://195.26.87.217",
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
     "drmScheme": "",
     "drmLicense": ""
   },
