@@ -103,16 +103,6 @@
     "drmLicense": ""
   },
   {
-    "name": "WWE Network",
-    "link": "https://247b.mrgamingstreams.com/mrgamingwwenet.m3u8",
-    "logo": "https://pbs.twimg.com/profile_images/1244042591659798534/2HHaFP4m_400x400.jpg",
-    "origin": "https://247b.mrgamingstreams.com",
-    "referrer": "https://247b.mrgamingstreams.com",
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
     "name": "T Sports Live 1",
     "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
     "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
