@@ -45,13 +45,16 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY8SVA080ms117m_CdqHUfNo6u0c9Cz_tHcw&usqp=CAU"group-title="Live",ASIAN CUP
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng_afc_m1_140124/mobile_master.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/748T03T/tsports2.jpg"group-title="Live", T Sports
+https://sportstoday24.000webhostapp.com/Sports-max.php?id=18359
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png"group-title="Live", T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Live",Gazi TV 
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
+#EXTINF:-1   group-title="Live",A Sports
+https://sportstoday24.000webhostapp.com/Sports-max.php?id=18468
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live", Green TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
 
