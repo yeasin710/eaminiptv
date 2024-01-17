@@ -1,23 +1,12 @@
 [
 {"name":"Yamin Vai",
-"link":"https://youtu.be/BCDkwIrI2RA?si=_9FgxepgdFqh2eLt",
+"link":"https://drive.google.com/file/d/1E6JfotNQ8OzdNs-0zEDAgYFg6kRRD7jC/view?usp=drive_link",
 "logo":"https://i.ibb.co/zZGg7Fj/Eamin-Vai.png",
 "origin":"https://bldcmprod-cdn.toffeelive.com",
 "referrer":"",
 "userAgent":"",
 "cookie":""},
 
-{
-    "name": "T Sports Live 2",
-    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
-    "logo": "https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg",
-    "origin": "https://live-cdn.tsports.com",
-    "referrer": "https://live-cdn.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705439544:KeyName=tsports-ed25519-01:Signature=1Pn_S_crMF6gkfCX0owVFcAN0W-huEhWAOMIbk6yNTToA2UFfkqEoSW-3WRDXD5GElP0Yy74myoY4DDQUL6QCg",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
   {
     "name": "Zee Bangla",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
