@@ -25,6 +25,93 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+  {
+    "name": "Green Tv",
+    "link": "https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "G Tv HD ",
+    "link": "http://103.141.2.37:25461/web/web/592",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "T Sports HD",
+    "link": "http://113.212.111.246:8080/hls/col12.m3u8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+   {
+    "name": "Astro Cricket",
+    "link": "https://webudit.webhd.ru/lb/premium370/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",
+    "origin": "http://195.26.87.217",
+    "referrer": "http://195.26.87.217",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+    {
+    "name": "Sky Sport 3",
+    "link": "https://webudit.webhd.ru/lb/premium590/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
+    "logo": "https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "CricLife 1",
+    "link": "https://webudit.webhd.ru/lb/premium284/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
+    "logo": "https://www.masters.llct20.com/public/uploads/sponsor/1678450321-CricLife1%20Logo_01.png",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "CricLife 2",
+    "link": "https://webudit.webhd.ru/lb/premium283/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
+    "logo": "https://i.imgur.com/aAO1u9q.png",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "FOX Cricket",
+    "link": "https://webudit.webhd.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU",
+    "origin": "https://olalivehdplay.ru",
+    "referrer": "https://olalivehdplay.ru/z.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sports18 HD",
+    "link": "https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB",
+    "logo": "https://i.ibb.co/ZMbFP6R/sports18.png",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+    {
+    "name": "Sports18 Khel",
+    "link": "https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbuuZQ5zlkKglnLKA1CWhlqbHIeE1EzNaog&usqp=CAU",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "WWE Network",
+    "link": "https://247b.mrgamingstreams.com/mrgamingwwenet.m3u8",
+    "logo": "https://pbs.twimg.com/profile_images/1244042591659798534/2HHaFP4m_400x400.jpg",
+    "origin": "https://247b.mrgamingstreams.com",
+    "referrer": "https://247b.mrgamingstreams.com",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  
  {
     "name": "T Sports Live 1",
     "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
