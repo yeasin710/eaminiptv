@@ -4,28 +4,10 @@
 "logo":"https://i.ibb.co/zZGg7Fj/Eamin-Vai.png",
 "origin":"https://bldcmprod-cdn.toffeelive.com",
 "referrer":"https://bldcmprod-cdn.toffeelive.com",
-"userAgent":"Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-"cookie":""},
+"userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+"cookie":""
+   },
 {
-    "name": "AUS 🆚 WI",
-    "link": "https://webudit.webhd.ru/lb/premium368/index.m3u8",
-    "logo": "https://i.ibb.co/m6rHtCw/images-79.jpg",
-    "origin": "https://olalivehdplay.ru/",
-    "referer": "https://olalivehdplay.ru/",
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
-  },
-{
-    "name": "IND 🆚 AFG",
-    "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099769/hd_akamai_iosmob_avc_ben_t2002140124/master.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZ-U9Eq2NJr4NZvTFtg-b-ueBNfij7BaK2g&usqp=CAU",
-    "origin": "",
-    "referer": "",
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
     "name": "Green Tv",
     "link": "https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8",
     "logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",
@@ -111,8 +93,7 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-  
- {
+  {
     "name": "T Sports Live 1",
     "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
     "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
@@ -1554,5 +1535,3 @@
     "drmLicense": ""
   }
 ]
-
-  
