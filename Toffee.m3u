@@ -36,20 +36,7 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-  {
-    "name": "CricLife 1",
-    "link": "https://webudit.webhd.ru/lb/premium284/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
-    "logo": "https://www.masters.llct20.com/public/uploads/sponsor/1678450321-CricLife1%20Logo_01.png",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "CricLife 2",
-    "link": "https://webudit.webhd.ru/lb/premium283/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
-    "logo": "https://i.imgur.com/aAO1u9q.png",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
+
   {
     "name": "Sports18 HD",
     "link": "https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB",
@@ -76,7 +63,7 @@
     "drmLicense": ""
   },
 {
-    "name": "LIVE | BPL 2024",
+    "name": " BPL ",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
     "logo": "https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg",
     "origin": "https://live-cdn.tsports.com",
