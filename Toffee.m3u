@@ -7,14 +7,39 @@
 "referrer":"https://bldcmprod-cdn.toffeelive.com",
 "userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
 "cookie":""
-   },
-{
-    "name": "Green Tv",
-    "link": "https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
+},
+{"name":"DEEN TV",
+"link":"https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8",
+"logo":"https://i.postimg.cc/JnsQVkNC/image.jpg",
+"origin":"https://bldcmprod-cdn.toffeelive.com",
+"referrer":"https://bldcmprod-cdn.toffeelive.com",
+"userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+"cookie":""
+},
+{"name":"ION TV",
+"link":"https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/chunks.m3u8",
+"logo":"https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg",
+"origin":"https://bldcmprod-cdn.toffeelive.com",
+"referrer":"https://bldcmprod-cdn.toffeelive.com",
+"userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+"cookie":""
+},
+{"name":"IQRA BANGLA",
+"link":"https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8",
+"logo":"https://iqra.tv/wp-content/uploads/2022/07/Iqra-Logo-PNG",
+"origin":"https://bldcmprod-cdn.toffeelive.com",
+"referrer":"https://bldcmprod-cdn.toffeelive.com",
+"userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+"cookie":""
+},
+{"name":"AL QURAN AL QAREEM",
+"link":"https://edge.taghtia.com/sa/7.m3u8",
+"logo":"https://i.ibb.co/Prjwwcb/pngwing-com.png",
+"origin":"https://bldcmprod-cdn.toffeelive.com",
+"referrer":"https://bldcmprod-cdn.toffeelive.com",
+"userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+"cookie":""
+},
   {
     "name": "G Tv HD ",
     "link": "http://103.141.2.37:25461/web/web/592",
@@ -50,6 +75,7 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+ 
 {
     "name": " BPL ",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
@@ -72,6 +98,14 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+{"name":"Enter 10 Bangla",
+"link":"http://103.132.181.118:82/play/a00n",
+"logo":"https://i.ibb.co/xgsT72w/entertain.png",
+"origin":"https://bldcmprod-cdn.toffeelive.com",
+"referrer":"https://bldcmprod-cdn.toffeelive.com",
+"userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+"cookie":""
+},
   {
     "name": "Zee Bangla",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
