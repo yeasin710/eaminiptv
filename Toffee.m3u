@@ -40,6 +40,13 @@
 "userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
 "cookie":""
 },
+   {
+    "name": "Sky Sport 3",
+    "link": "https://webudit.webhd.ru/lb/premium590/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
+    "logo": "https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
   {
     "name": "G Tv HD ",
     "link": "http://103.141.2.37:25461/web/web/592",
@@ -54,13 +61,6 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-    {
-    "name": "Sky Sport 3",
-    "link": "https://webudit.webhd.ru/lb/premium590/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
-    "logo": "https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
   {
     "name": "Sports 18 HD",
     "link": "https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB",
@@ -68,14 +68,16 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-    {
-    "name": "Sports 18 Khel",
-    "link": "https://livevoot.co.in/voot/master.m3u8?id=Sports18_Khel_voot_MOB",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbuuZQ5zlkKglnLKA1CWhlqbHIeE1EzNaog&usqp=CAU",
+  {
+    "name": "FOX Cricket",
+    "link": "https://webudit.webhd.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU",
+    "origin": "https://olalivehdplay.ru",
+    "referrer": "https://olalivehdplay.ru/z.m3u8",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
     "drmScheme": "",
     "drmLicense": ""
   },
- 
 {
     "name": " BPL ",
     "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
