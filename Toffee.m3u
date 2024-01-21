@@ -65,12 +65,13 @@
     "drmLicense": ""
   },
   {
-    "name": "Real Madrid vs Almeria ",
-    "link": "https://prod-ent-live-gm.jiocinema.com:443/hls/live/2099846/hd_akamai_merged_avc_eng_laliga_m3_210124/master.m3u8",
-    "logo": "https://i.ibb.co/JvKtD5T/images.jpg",
-    "origin": "https://olalivehdplay.ru",
-    "referrer": "https://olalivehdplay.ru/z.m3u8",
+    "name": "Barcelona vs Real Betis ",
+    "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099845/hd_akamai_merged_avc_eng_laliga_m4_210124/master.m3u8",
+    "logo": "https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png",
+    "origin": "",
+    "referer": "https://live-streamfootball.com/",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
   },
