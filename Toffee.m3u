@@ -64,7 +64,7 @@
   },
   {
     "name": "PTV Sports ",
-    "link": "https://webudit.webhd.ru/lb/premium450/index.m3u8",
+    "link": "https://webudit.webhd.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",
     "drmScheme": "",
     "drmLicense": ""
