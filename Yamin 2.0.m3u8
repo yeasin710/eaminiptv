@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Yamin Tv", Yamin Vai
 https://drive.usercontent.google.com/download?id=1GwcNUrftCQ7QO-MaCeIXZd7E-_PqBtiR&export=download&authuser=0&confirm=t&uuid=93075de7-415f-4a7f-a942-153b149281b0&at=APZUnTWcWpcgHhgfUVYnyPMkuRjo:1705830928189
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="RELIGION", PEACE TV BANGLA
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION", PEACE TV
@@ -230,8 +231,6 @@ http://103.132.181.118:82/play/a00e
 http://103.132.181.118:82/play/a00o
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7VRBdee.png"group-title="Indian",Brat TV 
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="English"tvg-logo="https://i.imgur.com/7VRBdee.png",Brat TV
-https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/V6Mfc4Yt/Sony-MAX.png",Sony MAX HD
 http://103.132.181.118:82/play/a00c
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/yd9WqNjW/SET-LOGO-HD.png",Sony SET HD
@@ -313,44 +312,6 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MN MOVIES" tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png" group-title="Indian", MN MOVIES
-https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="Indian", SONY SAB
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=80&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="Indian", SONY SAB HD
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=77&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="Indian", SET SD
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=81&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="Indian", SET HD
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=73&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://i.ibb.co/xzN3Yb2/Picsart-23-06-07-12-30-14-157.png" group-title="Indian", SONY PAL
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=87&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="Indian", DHINCHAAK
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=153&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="Indian", GOLDMINES
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=154&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="Indian", GOLDMINES MOVIES
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=156&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="Indian", GOLDMINES BOLLYWOOD
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=155&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="Indian", DHAMAKA MOVIES
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=191&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="Indian", SONY MAX HD 
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=71&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="Indian", SONY MAX 2
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=82&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.ibb.co/JFTfGm4/Picsart-23-06-07-12-25-34-072.png" group-title="Indian", B4U KADAK
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=149&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="Indian", BFLIX MOVIES
-https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=163&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL TV" tvg-logo="https://www.dlf.pt/dfpng/middlepng/560-5607081_tamil-tv-channel-logos-png-download-tamil-tv.png" group-title="Indian", TAMIL TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="English",Star Movies
 https://edge2.laotv.la/live/StarMovie/index.m3u8
@@ -387,7 +348,6 @@ https://moviesphere-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/Y93S5xrj/BNaXQWX.png",Movies Now HD
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
 
 
 
@@ -445,7 +405,6 @@ http://103.223.14.56:8000/play/a0ti/index.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="kids"tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png"tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",CARTOON NETWORK HD
 https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
-
 #EXTINF:-1 group-title="kids" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney
 https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
 #EXTINF:-1 group-title="kids" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
@@ -559,9 +518,6 @@ https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS", T Sports 
-https://nayeem-ayna1.000webhostapp.com/aynax.php?id=28&e=.m3u8|User-Agent=nayeemxyz2
 
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS", T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
