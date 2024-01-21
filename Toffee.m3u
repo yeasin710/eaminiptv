@@ -48,14 +48,6 @@
     "drmLicense": ""
   },
   {
-    "name": "Willow HD",
-    "link": "https://gettvfree.tech/live/stream_e1.m3u8",
-    "logo": "https://i.imgur.com/PSrgydV.jpg",
-    "origin": "",
-    "referer": "https://live-streamfootball.com/",
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
-  },
-  {
     "name": "Sports 18 HD",
     "link": "https://livevoot.co.in/voot/master.m3u8?id=Sports18_1_HD_voot_MOB",
     "logo": "https://i.ibb.co/ZMbFP6R/sports18.png",
@@ -63,14 +55,7 @@
     "drmLicense": ""
   },
   {
-    "name": "PTV Sports ",
-    "link": "https://webudit.webhd.ru/lb/premium450/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "STAR SPORTS 1 HD",
+    "name": "STAR SPORTS",
     "link": "http://172.17.50.112/live/fifa2022/index.m3u8",
     "logo": "https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png",
     "origin": "https://olalivehdplay.ru",
@@ -83,16 +68,6 @@
     "name": "Football",
     "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
     "logo": "https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png",
-    "origin": "https://olalivehdplay.ru",
-    "referrer": "https://olalivehdplay.ru/z.m3u8",
-    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "Ten Sports HD",
-    "link": "http://117.55.202.4:25461/client109/s5347865/127?token=SkMOBUsLFA1HWQQMVg8PAAcCUw5UBAkDDAgIWgBTCwhUBFZRAVUFAVYaShpHQkVcUVw5XgZHA1cKBh1BRkRdS24IAkYCQQQOXBpKGkBfWlwSC1cAUlYKXgoCAFYfFUhQVUNcRg9WAQRHFERdTEJSS15QCmgGAE8PW1QTWV1CVFUdQwkKZwdTWgRWAhoOFAYbHBMPRBJHAwhNXV1PEVVRTUMAEgEaWRQFVA1eGhgUVFZFXxJFG0cDCE1dXU8RUkBNVA8VDVcNFA1HTBUaGBReSm9DA0QWF1wHVVRDQQkVCBsdQwsFQDxVWAtWA1tAX1hXQxNcFVVVG0oaXF4NWkNXS24RDwAaWRQBUQ5SGkk=",
-    "logo": "https://i.ibb.co/F69KDPj/images-82.jpg",
     "origin": "https://olalivehdplay.ru",
     "referrer": "https://olalivehdplay.ru/z.m3u8",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
