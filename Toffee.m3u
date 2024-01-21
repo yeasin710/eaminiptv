@@ -74,13 +74,14 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-  {
-    "name": "FOX Cricket",
-    "link": "https://webudit.webhd.ru/lb/premium369/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU",
-    "origin": "https://olalivehdplay.ru",
-    "referrer": "https://olalivehdplay.ru/z.m3u8",
+   {
+    "name": "Premier League",
+    "link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F9%2Findex.m3u8&token=142cd3b15f14138cf14b1907e2363961024f44f4&is_vip=false&verify=1705838400-P7hLCurT3arUpruZtdyKTqFWhQC5PV%2B0c4JVzONtUzA%3D",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHKAzbxtuIg9qzvDdfD8UXqHIwvCQ3yUPxQ&usqp=CAU",
+    "origin": "",
+    "referer": "https://live-streamfootball.com/",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
   },
