@@ -19,7 +19,7 @@ https://edge.taghtia.com/sa/6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png"group-title="Live", T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Live",Gazi TV 
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Live", Green TV
@@ -503,7 +503,7 @@ https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS", T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
+https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="SPORTS", GTV
