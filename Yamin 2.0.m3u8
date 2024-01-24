@@ -390,6 +390,8 @@ https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
 https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
 #EXTINF:-1 group-title="kids" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 tvg-id="545" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
+https://fifaxbd.fun/JIOX/play.php?id=545&e=.m3u8
 #EXTINF:-1 group-title="kids" tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png",Nicke JR
 http://195.26.87.217/live.ts?channelId=252&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="kids"tvg-logo="https://i.imgur.com/f7UmNG3.png",TOON TUBERS
