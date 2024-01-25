@@ -55,24 +55,22 @@
     "drmLicense": ""
   },
  {
-    "name": "IND 🆚 ENG",
-    "link": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_indvseng_test01day01250124/master.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLVhDwZYcpsV5D6z-AN-77P-NSOSnD8BPerw&usqp=CAU",
-    "origin": "https://olalivehdplay.ru/",
-    "referer": "https://live-streamfootball.com/",
+    "name": "Football",
+    "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
+    "logo": "https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png",
+    "origin": "https://olalivehdplay.ru",
+    "referrer": "https://olalivehdplay.ru/z.m3u8",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1706085091:KeyName=tsports-ed25519-01:Signature=ECBPjTpA1KoY2PWAD4MHyNaL_Hro-JTF1GxutnYba53wcec3KMT3IP0oSo5woww4tA_OYbAxTx7dDdalbqRJAw",
     "drmScheme": "",
     "drmLicense": ""
   },
- {
-    "name": "AUS 🆚 WI",
-    "link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F47%2Findex.m3u8&token=4329047fc4faa6022d5cc5c91c5ae535a42d53cb&is_vip=false&verify=1706162400-28CjAkTT7Z3nD0yk9H0GGl4QK7AN3SbN0XjOA5563k4%3D",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8wsAWRqpldCSlVSoD1FAavD89ByEHGEbDQ&usqp=CAU",
-    "origin": "",
-    "referer": "https://live-streamfootball.com/",
+  {
+    "name": "FOX Cricket",
+    "link": "http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU",
+    "origin": "https://olalivehdplay.ru",
+    "referrer": "https://olalivehdplay.ru/z.m3u8",
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1706171524:KeyName=tsports-ed25519-01:Signature=1DfJforNyqWVIxqaEGJpIyd0QWTk0VpVsxNyS2CDjOXQrqzGFM2D1Wn7tGbTOMb20viCyDBxn6ySZGGs5c_1Cg",
     "drmScheme": "",
     "drmLicense": ""
   },
