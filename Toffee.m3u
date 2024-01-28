@@ -26,7 +26,34 @@
     "userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
     "cookie":""
   },
+  {
+    "name":"MADINA TV",
+    "link":"http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8",
+    "logo":"https://i.imgur.com/GQhXlx8.jpg",
+    "origin":"https://bldcmprod-cdn.toffeelive.com",
+    "referrer":"https://bldcmprod-cdn.toffeelive.com",
+    "userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie":""
+  },
    {
+    "name":"MAKKAH TV",
+    "link":"https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkahtv.stream/live-orgin/makkahtv.stream/chunks.m3u8",
+    "logo":"https://i.imgur.com/9gffd60.png",
+    "origin":"https://bldcmprod-cdn.toffeelive.com",
+    "referrer":"https://bldcmprod-cdn.toffeelive.com",
+    "userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie":""
+  },
+  {
+    "name":"ISLAM TV",
+    "link":"https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/islamtv.stream/live-orgin/islamtv.stream/chunks.m3u8",
+    "logo":"https://i.imgur.com/M0K68o5.png",
+    "origin":"https://bldcmprod-cdn.toffeelive.com",
+    "referrer":"https://bldcmprod-cdn.toffeelive.com",
+    "userAgent":"Toffee (Linux; ) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie":""
+  },
+  {
     "name": "ATN ISLAMIC TV",
     "link": "https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/chunks.m3u8",
     "logo": "https://i.ibb.co/TPdPzcn/IMG-20240126-102629.jpg",
