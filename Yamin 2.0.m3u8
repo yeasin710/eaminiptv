@@ -80,6 +80,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacin
 http://103.132.181.118:82/play/a008
 #EXTINF:-1 group-title="India Bangla"tvg-logo="https://i.ibb.co/9cfcKcP/IMG-20240126-113721.png",Jalsha Movies HD
 http://103.132.181.118:82/play/a004
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.ibb.co/sQTBtDd/IMG-20240129-064750.png",Akash 8
+http://mag.trexlive.me:80/Michael88/Michael88/282065
+
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.ibb.co/jRYPvtm/IMG-20240129-064516.jpg",Rupshi Bangla 
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.ibb.co/gVmkVRn/IMG-20240129-064600.jpg",Tara Bangla Cinema 
@@ -237,7 +241,7 @@ https://zee28-ghanta.mssarena71.workers.dev/stream/Zee24Ghanta/master.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.ibb.co/L6PkCht/IMG-20240129-064656.jpg",Amar Digital 
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.ibb.co/sQTBtDd/IMG-20240129-064750.png",Akash 8
+
 
 
 
@@ -631,9 +635,9 @@ http://103.132.181.118:82/play/a00b
 http://103.132.181.118:82/play/a00v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6bm4R3d/IMG-20240129-072422.jpg" group-title="SPORTS", Sony Ten 3
 https://cdn-tv.co.in/myweb/watch.php?id=1000009278&e=.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Sony Ten 4
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",Sony Ten 4
 https://cdn-tv.co.in/myweb/watch.php?id=1000119186&e=.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q1ULfns.png",Sony Ten 5
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Ten 5
 https://cdn-tv.co.in/myweb/watch.php?id=1000009275&e=.m3u8
 
 
@@ -800,8 +804,7 @@ http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 http://peridot.streamguys.com:7150/Mirchi
 #EXTINF: -1 tvg-logo="https://www.dropbox.com/s/gcxmz0bbw72pit7/98.4.png?raw=1" group-title="FM Radio",Radio Ekattor (98.4)
 http://192.144.82.200:9302/;stream/1;;
-
-#EXTINF:-1 group-title="FM Radio tvg-logo="https://i.imgur.com/sUtIV0g.png",Radio Sarabela (98.8)
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.imgur.com/sUtIV0g.png",Radio Sarabela (98.8)
 http://103.4.145.50:8000/stream/1/
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.imgur.com/gi3zr40.png",Radio Padma (99.2)
 http://cassini.shoutca.st:9109/radiopadma.mp3
