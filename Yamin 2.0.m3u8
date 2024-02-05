@@ -60,7 +60,7 @@ https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/syHYLjc/IMG-20240126-103149.png"group-title="India Bangla",Star Jalsha HD
-http://103.132.181.118:82/play/a001
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmKbpg1/IMG-20240126-103114.png" group-title="India Bangla",Sony AATH
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png"group-title="India Bangla",Enter 10 Bangla
@@ -135,7 +135,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/ynYtDv8/IMG-20240126-111745.png",Nobanno TV 
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png"group-title="Bangladeshi",MOVIE BANGLA
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JF1GGPH/IMG-20240126-091704.png"group-title="Bangladeshi",NAN TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/64H4Wkx/IMG-20240126-091821.png"group-title="Bangladeshi",NTV EUROPE
@@ -259,17 +259,19 @@ http://103.132.181.118:82/play/a00o
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/y0yz5Hp/IMG-20240129-065010.jpg",BFLIX Movie
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://i.ibb.co/LQQ7zHk/IMG-20240126-092855.jpg" group-title="Indian", DHINCHAAK
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=151&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://i.ibb.co/DGwsJRk/IMG-20240126-093013.png" group-title="Indian", GOLDMINES
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=152&e=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://i.ibb.co/R7K4j5F/IMG-20240126-092933.jpg" group-title="Indian", GOLDMINES MOVIES
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=154&e=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://i.ibb.co/D8FZ8B6/IMG-20240126-093109.jpg" group-title="Indian", GOLDMINES BOLLYWOOD
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=153&e=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://i.ibb.co/G5SDrFH/IMG-20240126-121727.jpg" group-title="Indian", DHAMAKA MOVIES
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=189&e=.m3u8
+
 
 
 
@@ -294,19 +296,19 @@ http://103.132.181.118:82/play/a00c
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/yhb5ZFt/IMG-20240129-065124.png",Sony Sab 
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/XWHhgdd/IMG-20240129-065205.png",Sony Sab HD
-
+https://cdn-tv.co.in/myweb/watch.php?id=1000009248&e=.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/sF8V6zR/IMG-20240129-065409.jpg",Sony WAH
-
-
+https://cdn-tv.co.in/myweb/watch.php?id=1000009253&e=.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/GsDhxpV/IMG-20240129-065445.png",Sony Max 2
-
+https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/F5Y27mL/IMG-20240129-065527.png",Sony Pix
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/TgdZysJ/IMG-20240129-065636.jpg",Sony Pix HD
+https://cdn-tv.co.in/myweb/watch.php?id=1000009258&e=.m3u8
 
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",Sony SET HD
-http://103.132.181.118:82/play/a00h
+hhttps://cdn-tv.co.in/myweb/watch.php?id=1000009246&e=.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",Zee TV
 http://103.132.181.118:82/play/a00f
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/yQpsKD5/IMG-20240126-115659.jpg",Zee Tv HD
