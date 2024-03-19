@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N7T728M/Yamin-Vai.gif",Yamin Vai
 https://drive.usercontent.google.com/download?id=1GwcNUrftCQ7QO-MaCeIXZd7E-_PqBtiR&export=download&authuser=0&confirm=t&uuid=93075de7-415f-4a7f-a942-153b149281b0&at=APZUnTWcWpcgHhgfUVYnyPMkuRjo:1705830928189
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/C1KMSXy/Picsart-23-06-07-12-51-51-011.png" group-title="BDIX CHANNELS", SONY SPORTS 2 HD
+http://103.109.56.116/live/skyfeed1008/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/340?cb=20221025091902" group-title="BDIX CHANNELS", SONY SPORTS 5 HD
 http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="BDIX CHANNELS", STAR SPORTS 1 HD
