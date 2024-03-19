@@ -187,7 +187,7 @@
     "drmScheme": "",
     "drmLicense": ""
   },
-    {
+  {
     "name":"Enter 10 Bangla",
     "link":"https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
     "logo":"https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png",
@@ -197,72 +197,9 @@
     "cookie":""
   },
     {
-    "name":"Amar Bangla",
-    "link":"https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8",
-    "logo":"https://i.ibb.co/Mkc13dg/IMG-20240223-091838.jpg",
-    "origin":"",
-    "referrer":"",
-    "userAgent":"",
-    "cookie":""
-  },
-    {
-    "name":"Sun Bangla Cinema",
-    "link":"https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8",
-    "logo":"https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",
-    "origin":"",
-    "referrer":"",
-    "userAgent":"",
-    "cookie":""
-  },
-
-  {
-    "name": "Somoy TV",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710957952:KeyName=prod_linear:Signature=KrYuXMFj_bBKmkhE0nX6SYtzJ4O2leDwduKpyy6Anw6sXDvnuJue7Ros8h-bHsxIF849LQ3vg7bhvPnfmTu7DQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "SONY SPORTS TEN 2 HD",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710957952:KeyName=prod_linear:Signature=KrYuXMFj_bBKmkhE0nX6SYtzJ4O2leDwduKpyy6Anw6sXDvnuJue7Ros8h-bHsxIF849LQ3vg7bhvPnfmTu7DQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
     "name": "Jalsha Movies VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jalsha_movies/playlist.m3u8",
     "logo": "https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710957952:KeyName=prod_linear:Signature=KrYuXMFj_bBKmkhE0nX6SYtzJ4O2leDwduKpyy6Anw6sXDvnuJue7Ros8h-bHsxIF849LQ3vg7bhvPnfmTu7DQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "SONY SPORTS TEN 5 HD",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710957952:KeyName=prod_linear:Signature=KrYuXMFj_bBKmkhE0nX6SYtzJ4O2leDwduKpyy6Anw6sXDvnuJue7Ros8h-bHsxIF849LQ3vg7bhvPnfmTu7DQ",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
-  {
-    "name": "SONY SPORTS TEN 1 HD",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
     "origin": "https://bldcmprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
@@ -292,6 +229,99 @@
     "drmScheme": "",
     "drmLicense": ""
   },
+  {
+    "name":"Amar Bangla",
+    "link":"https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8",
+    "logo":"https://i.ibb.co/Mkc13dg/IMG-20240223-091838.jpg",
+    "origin":"",
+    "referrer":"",
+    "userAgent":"",
+    "cookie":""
+  },
+  {
+    "name":"Amar Digital",
+    "link":"https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8",
+    "logo":"https://i.ibb.co/L6PkCht/IMG-20240129-064656.jpg",
+    "origin":"",
+    "referrer":"",
+    "userAgent":"",
+    "cookie":""
+  },
+  {
+    "name":"Sun Bangla Cinema",
+    "link":"https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8",
+    "logo":"https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",
+    "origin":"",
+    "referrer":"",
+    "userAgent":"",
+    "cookie":""
+  },
+  {
+    "name":"Tara Bangla Cinema",
+    "link":"http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8",
+    "logo":"https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png",
+    "origin":"",
+    "referrer":"",
+    "userAgent":"",
+    "cookie":""
+  },
+  {
+    "name":"Khushboo Bangla",
+    "link":"http://idvd.multitvsolution.com/idvo/khushboo.m3u8",
+    "logo":"https://i.postimg.cc/jddcJsC2/download.jpg",
+    "origin":"",
+    "referrer":"",
+    "userAgent":"",
+    "cookie":""
+  },
+
+
+  {
+    "name": "Somoy TV",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710957952:KeyName=prod_linear:Signature=KrYuXMFj_bBKmkhE0nX6SYtzJ4O2leDwduKpyy6Anw6sXDvnuJue7Ros8h-bHsxIF849LQ3vg7bhvPnfmTu7DQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY SPORTS TEN 2 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten2_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710957952:KeyName=prod_linear:Signature=KrYuXMFj_bBKmkhE0nX6SYtzJ4O2leDwduKpyy6Anw6sXDvnuJue7Ros8h-bHsxIF849LQ3vg7bhvPnfmTu7DQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+
+  {
+    "name": "SONY SPORTS TEN 5 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_six_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710957952:KeyName=prod_linear:Signature=KrYuXMFj_bBKmkhE0nX6SYtzJ4O2leDwduKpyy6Anw6sXDvnuJue7Ros8h-bHsxIF849LQ3vg7bhvPnfmTu7DQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "SONY SPORTS TEN 1 HD",
+    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_ten1_hd/playlist.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png",
+    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "referrer": "",
+    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710957952:KeyName=prod_linear:Signature=KrYuXMFj_bBKmkhE0nX6SYtzJ4O2leDwduKpyy6Anw6sXDvnuJue7Ros8h-bHsxIF849LQ3vg7bhvPnfmTu7DQ",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  
   {
     "name": "TOFFEE Sports VIP",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8",
