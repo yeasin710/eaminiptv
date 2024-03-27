@@ -109,6 +109,16 @@
     "cookie":""
   },
   {
+    "name":"Super Cricket",
+    "link":"https://catowrap.live/mrgamingsscric.m3u8",
+    "logo":"https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  
+  {
     "name":"Star Sports 1",
     "link":"http://103.109.56.116/live/skyfeed1002/index.m3u8",
     "logo":"https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg",
@@ -127,16 +137,7 @@
     "cookie":""
   },
 
-  {
-    "name":"Super Cricket",
-    "link":"https://catowrap.live/mrgamingsscric.m3u8",
-    "logo":"https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  
+
     {
     "name":"SKY Sports Cricket",
     "link":"https://catowrap.live/mrgamingcric.m3u8",
