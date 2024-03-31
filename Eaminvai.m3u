@@ -314,7 +314,25 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-
+ {
+    "name":"Bangla +",
+    "link":"https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "logo":"https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  
+    {
+    "name":"Sananda Tv",
+    "link":"https://fr.tvanondo.online/sananda/video.m3u8",
+    "logo":"https://i.ibb.co/z8cPBwx/IMG-20240330-183245.jpg",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
   {
     "name": "Somoy TV",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
