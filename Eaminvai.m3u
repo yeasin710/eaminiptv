@@ -81,17 +81,7 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-  {
-    "name": "BAN vs SL VIP",
-    "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/2889/logo/240x240/mobile_logo_211907001709470250.png",
-    "origin": "https://mprod-cdn.toffeelive.com",
-    "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711915542:KeyName=prod_live_events:Signature=F2Kz0ZLK4QPDemISRJkm5dguy9Iu7MUgfswOdRyefy5MAjx-PkhnB1ckzhwQN5O3rDglXjFYS7uK0pUoXyKJAA",
-    "drmScheme": "",
-    "drmLicense": ""
-  },
+
   {
     "name": "IPL VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8",
@@ -104,9 +94,18 @@
     "drmLicense": ""
   },
   {
+    "name":" T Sports HD ",
+    "link":"http://103.77.218.14:8082/Tsports-2/index.m3u8",
+    "logo":"https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+ {
     "name":" T Sports",
     "link":"http://176.119.29.52/live/00:1A:79:D5:3F:0C/0C219CAACF826/48010.m3u8",
-    "logo":"https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png",
+    "logo":"https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
@@ -130,74 +129,6 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-
-
-
-  {
-    "name":"Willow HD",
-    "link":"http://xtv.ooo:8080/shahz18/18usman/220064",
-    "logo":"https://i.ibb.co/84Sqm5L/IMG-20240129-072506.jpg",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"WILLOW CRICKET XTRA",
-    "link":"http://xtv.ooo:8080/shahz18/18usman/167582",
-    "logo":"https://i.ibb.co/tQNxQ2Z/IMG-20240129-072540.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-
-  {
-    "name":"TEN SPORTS",
-    "link":"http://xtv.ooo:8080/shahz18/18usman/167569",
-    "logo":"https://i.ibb.co/kKzTfTs/IMG-20240217-090806.jpg",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"TEN CRICKET",
-    "link":"http://xtv.ooo:8080/shahz18/18usman/167587",
-    "logo":"https://i.ibb.co/0K2Z2M1/IMG-20240324-052926.jpg",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"A SPORTS ",
-    "link":"http://xtv.ooo:8080/shahz18/18usman/219689",
-    "logo":"https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"Sports 18",
-    "link":"https://pos.bongohub.pw/mac.m3u8?id=7685",
-    "logo":"https://i.ibb.co/YP5XVnN/IMG-20240126-110302.jpg",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"ASTRO CRICKET",
-    "link":"http://xtv.ooo:8080/shahz18/18usman/167581",
-    "logo":"https://i.ibb.co/261tbRp/IMG-20240324-052842.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-
   {
     "name":"TNT 1",
     "link":"https://catowrap.live/mrgamingbtsport1.m3u8",
@@ -235,23 +166,62 @@
     "cookie":""
   },
   {
-    "name":"EUROPSPORT",
-    "link":"http://xtv.ooo:8080/shahz18/18usman/206324",
-    "logo":"https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png",
+    "name":"Willow HD",
+    "link":"http://xtv.ooo:8080/shahz18/18usman/220064",
+    "logo":"https://i.ibb.co/84Sqm5L/IMG-20240129-072506.jpg",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
     "cookie":""
   },
   {
-    "name":"Sky Open",
-    "link":"https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8",
-    "logo":"https://i.imgur.com/5YxbUFg.png",
+    "name":"WILLOW CRICKET XTRA",
+    "link":"http://xtv.ooo:8080/shahz18/18usman/167582",
+    "logo":"https://i.ibb.co/tQNxQ2Z/IMG-20240129-072540.png",
     "origin":"",
     "referrer":"http://eamintalukdar.xyz",
     "userAgent":"Eamin Vai",
     "cookie":""
   },
+  {
+    "name":"TEN SPORTS",
+    "link":"http://xtv.ooo:8080/shahz18/18usman/167569",
+    "logo":"https://i.ibb.co/kKzTfTs/IMG-20240217-090806.jpg",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
+    "name":"TEN CRICKET",
+    "link":"http://xtv.ooo:8080/shahz18/18usman/167587",
+    "logo":"https://i.ibb.co/0K2Z2M1/IMG-20240324-052926.jpg",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+
+  {
+    "name":"A SPORTS ",
+    "link":"http://xtv.ooo:8080/shahz18/18usman/219689",
+    "logo":"https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+
+  {
+    "name":"ASTRO CRICKET",
+    "link":"http://xtv.ooo:8080/shahz18/18usman/167581",
+    "logo":"https://i.ibb.co/261tbRp/IMG-20240324-052842.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+
 ,
 
   {
