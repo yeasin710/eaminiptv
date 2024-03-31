@@ -345,15 +345,7 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-  {
-    "name":"Bangla +",
-    "link":"https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
-    "logo":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNYNrotoUtP6msoj-tMjrN40T0CqsNWmaZBRXYUxNOkjHVFMfz",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
+
   {
     "name": "Somoy TV",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
