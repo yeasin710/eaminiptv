@@ -275,6 +275,24 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
+{
+    "name":"Sun Bangla Cinema",
+    "link":"https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8",
+    "logo":"https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
+  {
+    "name":"Bangla +",
+    "link":"https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "logo":"https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",
+    "origin":"",
+    "referrer":"http://eamintalukdar.xyz",
+    "userAgent":"Eamin Vai",
+    "cookie":""
+  },
   {
     "name":"Amar Bangla",
     "link":"https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8",
@@ -293,25 +311,8 @@
     "userAgent":"Eamin Vai",
     "cookie":""
   },
-  {
-    "name":"Sun Bangla Cinema",
-    "link":"https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8",
-    "logo":"https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
-  {
-    "name":"Bangla +",
-    "link":"https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
-    "logo":"https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",
-    "origin":"",
-    "referrer":"http://eamintalukdar.xyz",
-    "userAgent":"Eamin Vai",
-    "cookie":""
-  },
   
+
   {
     "name": "Somoy TV",
     "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
