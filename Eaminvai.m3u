@@ -38,3 +38,41 @@ https://catowrap.live/mrgamingbtsport2.m3u8
 https://catowrap.live/mrgamingbtsport3.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/8Nz8v7s/download-21.png",TNT 4
 https://catowrap.live/mrgamingbtsport4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS CHANNELS", DUBAI 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS CHANNELS", DUBAI 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/jZjV0vL/IMG-20240129-072833.png",TSN 1
+http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/28961.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/0jL57D6/IMG-20240129-072903.png",TSN 2
+http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/28962.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/RBwy45C/IMG-20240129-072941.png",TSN 3
+http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/28963.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BTKDn9j/IMG-20240126-101549.png" group-title="SPORTS CHANNELS", beIN Sports 1
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qM1dDR7/IMG-20240126-101611.png" group-title="SPORTS CHANNELS", beIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SmGWyqJ/IMG-20240126-101632.png" group-title="SPORTS CHANNELS", beIN Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TTH7qqq/IMG-20240126-101659.png" group-title="SPORTS CHANNELS", beIN Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkcD9q5/IMG-20240126-101722.png" group-title="SPORTS CHANNELS", beIN Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M1tkX7N/IMG-20240126-101745.png" group-title="SPORTS CHANNELS", beIN Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
+
