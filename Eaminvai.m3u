@@ -76,3 +76,33 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/rZPtGqJ/IMG-20240212-075608.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/VW4tBD5/IMG-20240129-072626.jpg",Football
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",Atnnat
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDNQRPp/IMG-20240126-102111.png" group-title="SPORTS CHANNELS", FIFA Plus
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDNQRPp/IMG-20240126-102111.png" group-title="SPORTS CHANNELS", FIFA Plus
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDNQRPp/IMG-20240126-102111.png" group-title="SPORTS CHANNELS", FIFA Plus
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDNQRPp/IMG-20240126-102111.png" group-title="SPORTS CHANNELS", FIFA Plus
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/k0HQWk7/IMG-20240129-072740.png",ESPN 3
+http://45.179.140.242:8000/play/a0je
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/s2CDNpR/IMG-20240320-115949.png",MU Tv
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABNXMpALjhnyvMN_FewC37QU6lc4LfBFS6A&usqp=CAU" group-title="SPORTS CHANNELS", Ziggo Sport Golf
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53703.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHSRKvBh9Ou7Fi3UY7lBNaXuLKcrjwrtNCg&usqp=CAU" group-title="SPORTS CHANNELS", Ziggo Sport Voetbal
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o/h/1/851/ziggo-sport-racing-1.png" group-title="SPORTS CHANNELS", Ziggo Sport Racing 
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53705.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JmCH1OEo8u4hUf3SzuYFNcgmN3jNuklF9w&usqp=CAU" group-title="SPORTS CHANNELS", Ziggo Sport Duco
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53708.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KGWdWkbwXtk03-Li_89z3DG1YY3-xw7hsA&usqp=CAU" group-title="SPORTS CHANNELS", Ziggo Sport Tennis 
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png",Tennis Channel [UK]
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
