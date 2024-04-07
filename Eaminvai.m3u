@@ -9,20 +9,24 @@ http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="LIVE EVENT CHANNELS",G TV HD
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV 
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="LIVE EVENT CHANNELS", T Sports 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="SPORTS CHANNELS", T Sports  
 https://live-cdn.tsports.com/live-02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="LIVE EVENT CHANNELS", T Sports HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS CHANNELS", T Sports HD 
 http://103.77.218.14:8082/Tsports-2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WGZXvWw/20240321-105313.png"group-title="LIVE EVENT CHANNELS",IPL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WGZXvWw/20240321-105313.png"group-title="SPORTS CHANNELS",IPL
 http://tv.mototvlive.net:8880/salman/salman/1404
 
-#EXTINF:-1 group-title="LIVE EVENT CHANNELS" tvg-logo="https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",Super Cricket
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",Super Cricket
 https://catowrap.live/mrgamingsscric.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FKZW7QG/IMG-20240324-052426.jpg" group-title="LIVE EVENT CHANNELS", SKY Sports Cricket
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FKZW7QG/IMG-20240324-052426.jpg" group-title="SPORTS CHANNELS", SKY Sports Cricket
 https://catowrap.live/mrgamingcric.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg" group-title="SPORTS CHANNELS", Star Sports 1
+https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
+
