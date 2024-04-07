@@ -8,14 +8,53 @@ https://drive.usercontent.google.com/download?id=1hnukESeuf2Gs0Y8l5z_IirR42UKSZ5
 http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="LIVE EVENT CHANNELS",G TV 
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="LIVE EVENT CHANNELS", T Sports  
+https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="LIVE EVENT CHANNELS", T Sports HD 
+http://103.77.218.14:8082/Tsports-2/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png"group-title="INDIAN BANGLA CHANNELS",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/L6PkCht/IMG-20240129-064656.jpg",Amar Digital 
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/z8cPBwx/IMG-20240330-183245.jpg",Sananda Tv
+https://fr.tvanondo.online/sananda/video.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS"tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+
+
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/BKW8SBB/IMG-20240320-114558.jpg",TBN 24
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.png",ETV BANGLA
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMssSBk/IMG-20240320-113616.jpg" group-title="BANGLADESHI CHANNELS",K Tv 
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-1 tvg-id="82" tvg-logo="https://i.ibb.co/jGjvFwG/IMG-20240320-114025.png" group-title="BANGLADESHI CHANNELS",Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vVPgYDX/IMG-20240126-103034.png" group-title="BANGLADESHI CHANNELS",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/27tnt11/IMG-20240126-112025.jpg",Cumilla TV
+http://103.149.142.133/0.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV 
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="SPORTS CHANNELS", T Sports  
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS CHANNELS", T Sports HD 
 http://103.77.218.14:8082/Tsports-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WGZXvWw/20240321-105313.png"group-title="SPORTS CHANNELS",IPL
-http://tv.mototvlive.net:8880/salman/salman/1404
+
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",Super Cricket
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FKZW7QG/IMG-20240324-052426.jpg" group-title="SPORTS CHANNELS", SKY Sports Cricket
