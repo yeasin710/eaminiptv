@@ -55,13 +55,12 @@ https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS CHANNELS", T Sports HD 
 http://103.77.218.14:8082/Tsports-2/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg" group-title="SPORTS CHANNELS", Star Sports 1
+https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",Super Cricket
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FKZW7QG/IMG-20240324-052426.jpg" group-title="SPORTS CHANNELS", SKY Sports Cricket
 https://catowrap.live/mrgamingcric.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg" group-title="SPORTS CHANNELS", Star Sports 1
-https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/tQJBCxz/download-2.png",True Premier 1
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/ZHdTc7R/images-74.jpg",True Premier 2
