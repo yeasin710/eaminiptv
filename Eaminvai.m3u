@@ -3,30 +3,38 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NpPwTGh/Yamin-Vai.gif",BONGO  FLIX
 https://drive.usercontent.google.com/download?id=1hnukESeuf2Gs0Y8l5z_IirR42UKSZ5TA&export=download&authuser=0&confirm=t&uuid=0ce15247-7f6a-408c-97dc-80941186a3c0&at=APZUnTUc83qnX-KAbC0MPXImV4Lq:1712522805001
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png"group-title="ISLAMIC CHANNELS",Peace Tv Bangla 
 http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
-
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV 
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="SPORTS CHANNELS", T Sports  
 https://live-cdn.tsports.com/live-02/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS CHANNELS", T Sports HD 
 http://103.77.218.14:8082/Tsports-2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGZXvWw/20240321-105313.png"group-title="SPORTS CHANNELS",IPL
 http://tv.mototvlive.net:8880/salman/salman/1404
-
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/Xj2Psbv/IMG-20240320-115922.png",Super Cricket
 https://catowrap.live/mrgamingsscric.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FKZW7QG/IMG-20240324-052426.jpg" group-title="SPORTS CHANNELS", SKY Sports Cricket
 https://catowrap.live/mrgamingcric.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7y4JMGw/IMG-20240324-053136.jpg" group-title="SPORTS CHANNELS", Star Sports 1
 https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/tQJBCxz/download-2.png",True Premier 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/ZHdTc7R/images-74.jpg",True Premier 2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/wh14Sbq/8c23b890-f972-11e9-9d60-a7e46cdf4330-320.webp",True Sport 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.imgur.com/5YxbUFg.png",Sky Open
+https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/7SfnssW/download-18.png",TNT 1
+https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/Z2YJTKm/download-19.png",TNT 2
+https://catowrap.live/mrgamingbtsport2.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/j8C7Ftq/download-20.png",TNT 3
+https://catowrap.live/mrgamingbtsport3.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.ibb.co/8Nz8v7s/download-21.png",TNT 4
+https://catowrap.live/mrgamingbtsport4.m3u8
