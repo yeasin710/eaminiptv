@@ -30,23 +30,58 @@ https://fr.tvanondo.online/sananda/video.m3u8
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/ZLkVnXx/IMG-20240401-053222.png",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 group-title="NDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/5x280KL/IMG-20240126-110917.jpg",TV9 Bangla
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/5x280KL/IMG-20240126-110917.jpg",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/B2ngbHY/IMG-20240129-062727.png",BTV World
+https://himel-op.top/api/hoichoi.m3u8?id=1114
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png" group-title="BANGLADESHI CHANNELS",Somoy 
+https://himel-op.top/api/ytop.m3u8?id=e_BQWtx15qI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="BANGLADESHI CHANNELS",Jamuna TV
+https://himel-op.top/api/ytop.m3u8?id=EYd-9qjsI_k
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/68ZbjnV/IMG-20240320-120219.jpg",ATN News
+https://himel-op.top/api/ytop.m3u8?id=c67_sK-EU1g
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS"tvg-logo="https://i.ibb.co/JBPFpf1/IMG-20240126-085138.jpg",Channel 24
+https://himel-op.top/api/ytop.m3u8?id=SOUt2eeU4ig
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3GmF3b/IMG-20240126-084426.png" group-title="BANGLADESHI CHANNELS",DBC News
+https://himel-op.top/api/ytop.m3u8?id=Sh66Zurop2U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5cP3KT/IMG-20240126-084224.png" group-title="BANGLADESHI CHANNELS",Ekattor TV HD
+https://himel-op.top/api/hoichoi.m3u8?id=1136
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjgzxKW/IMG-20240126-084336.png" group-title="BANGLADESHI CHANNELS",Independent TV
+https://himel-op.top/api/ytop.m3u8?id=suSPQSFq8S4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64H4Wkx/IMG-20240126-091821.png"group-title="BANGLADESHI CHANNELS",N TV
+https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9LfKy2/IMG-20240126-084529.jpg" group-title="BANGLADESHI CHANNELS",News 24 HD
+https://himel-op.top/api/ytop.m3u8?id=wCIm4gxc5m8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/BKW8SBB/IMG-20240320-114558.jpg",TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
+https://himel-op.top/api/hoichoi.m3u8?id=1125
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
+https://himel-op.top/api/ytop.m3u8?id=eqFbPey0Ohw
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/54LQ5Mz/IMG-20240126-092402.png",Mohona TV
+https://himel-op.top/portal/puk.m3u8?id=11886
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
+https://himel-op.top/api/ytop.m3u8?id=KRg6skX01so
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/HTf0zzr/IMG-20240126-092334.jpg",Deepto TV
+https://himel-op.top/portal/puk.m3u8?id=11907
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.png",ETV BANGLA
-https://ekusheyserver.com/etvlivesn.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zGWjhVN/IMG-20240126-091620.png"group-title="BANGLADESHI CHANNELS",MOVIE BANGLA
+https://himel-op.top/api/hoichoi.m3u8?id=1138
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MMssSBk/IMG-20240320-113616.jpg" group-title="BANGLADESHI CHANNELS",K Tv 
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/kS8pK5H/IMG-20240129-062928.png",Anando Tv
+https://himel-op.top/api/hoichoi.m3u8?id=1117
 #EXTINF:-1 tvg-id="82" tvg-logo="https://i.ibb.co/jGjvFwG/IMG-20240320-114025.png" group-title="BANGLADESHI CHANNELS",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/vVPgYDX/IMG-20240126-103034.png" group-title="BANGLADESHI CHANNELS",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/27tnt11/IMG-20240126-112025.jpg",Cumilla TV
 http://103.149.142.133/0.m3u8
-
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS"tvg-logo="https://i.ibb.co/XzP9JK8/IMG-20240126-113020.png",Nexus TV
+https://himel-op.top/api/ytop.m3u8?id=UrW37VnWfy0
 
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV 
@@ -144,4 +179,5 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53708.m3u8
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png",Tennis Channel [UK]
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
 
