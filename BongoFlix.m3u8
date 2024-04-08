@@ -55,6 +55,8 @@ https://himel-op.top/api/ytop.m3u8?id=bX3hSzi8r94
 https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
 https://himel-op.top/api/hoichoi.m3u8?id=1125
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
+https://himel-op.top/api/ytop.m3u8?id=eqFbPey0Ohw
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
 https://himel-op.top/api/ytop.m3u8?id=KRg6skX01so
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/HTf0zzr/IMG-20240126-092334.jpg",Deepto TV
@@ -73,8 +75,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/27tnt11/IMG-20240126-112025.jpg",Cumilla TV
 http://103.149.142.133/0.m3u8
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
-https://himel-op.top/api/ytop.m3u8?id=eqFbPey0Ohw
+
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS"tvg-logo="https://i.ibb.co/XzP9JK8/IMG-20240126-113020.png",Nexus TV
 https://himel-op.top/api/ytop.m3u8?id=UrW37VnWfy0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/MnQK7Gt/IMG-20240129-063323.png" group-title="BANGLADESHI CHANNELS",Asian TV
@@ -327,4 +328,31 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53708.m3u8
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="https://i.postimg.cc/CLc9yjH1/512px-Tennis-Channel-logo-svg.png",Tennis Channel [UK]
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/zb6wWmP/IMG-20240212-215050.png" group-title="FM RADIO",Al Quran Radio
+http://66.45.232.131:9994/;stream.mp3
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WfTvKhd/IMG-20240212-214959.png" group-title="FM RADIO",Radio Foorti (88.0)
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
+#EXTINF: -1 tvg-logo="https://i.ibb.co/841Rr4j/IMG-20240212-215545.jpg" group-title="FM RADIO",Radio Amar (88.4)
+http://118.179.215.45:8000/;stream/1
+#EXTINF: -1 tvg-logo="https://i.ibb.co/styG9J7/IMG-20240212-215420.png" group-title="FM RADIO",Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF: -1 tvg-logo="https://i.ibb.co/48kyX8L/IMG-20240212-215134.jpg" group-title="FM RADIO",Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF: -1 tvg-logo="https://i.ibb.co/48kyX8L/IMG-20240212-215134.jp" group-title="FM RADIO",Radio Bhumi (92.8)
+http://tv.mototvlive.net:8880/salman/salman/2259
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9hq0zm1/IMG-20240212-220638.png" group-title="FM RADIO",Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF: -1 tvg-logo="https://i.ibb.co/48kyX8L/IMG-20240212-215134.jpg" group-title="FM RADIO",Capital FM (94.8)
+http://tv.mototvlive.net:8880/salman/salman/2262
+#EXTINF: -1 tvg-logo="https://i.ibb.co/B4YzRsk/IMG-20240212-215334.jpg" group-title="FM RADIO",Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF: -1 tvg-logo="https://i.ibb.co/LrttyZD/IMG-20240212-215247.png" group-title="FM RADIO",Radio Ekattor (98.4)
+http://192.144.82.200:9302/;stream/1;;
+#EXTINF:-1 group-title="FM RADIO" tvg-logo="https://i.ibb.co/rZFZZy4/IMG-20240212-215212.png",Radio Padma (99.2)
+http://cassini.shoutca.st:9109/radiopadma.mp3
+
+
 
