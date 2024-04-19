@@ -59,3 +59,86 @@ http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BDIX CHANNELS"tvg-logo="https://i.ibb.co/P4xmskD/IMG-20240129-071636.jpg",Discovery Bangla
 http://103.107.79.87:8080/CH8110HD08/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/0B6P42S/IMG-20240126-122314.jpg",BTV National 
+http://cdn01.palki.tv/live/BTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/B2ngbHY/IMG-20240129-062727.png",BTV World
+http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png",BTV Chottogram 
+http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/KyFX6DY/IMG-20240212-075949.png",Sangsad Tv
+http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png" group-title="PALKI CHANNELS CHANNELS",Somoy 
+http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8psvPP/IMG-20240126-084956.jpg" group-title="PALKI CHANNELS CHANNELS",Maasranga Tv
+http://cdn01.palki.tv/live/MaasrangaTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS"tvg-logo="https://i.ibb.co/JBPFpf1/IMG-20240126-085138.jpg",Channel 24
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M9LfKy2/IMG-20240126-084529.jpg" group-title="PALKI CHANNELS CHANNELS",News 24 HD
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5cP3KT/IMG-20240126-084224.png" group-title="PALKI CHANNELS CHANNELS",Ekattor TV HD
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png",ATN Bangla
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/68ZbjnV/IMG-20240320-120219.jpg",ATN News
+http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/SQyR6TT/IMG-20240126-092532.png",Boishakhi TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/1dJrphZ/IMG-20240129-063657.png",Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3GmF3b/IMG-20240126-084426.png" group-title="PALKI CHANNELS CHANNELS",DBC News
+http://cdn01.palki.tv/live/DBC-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjYF0c3/IMG-20240126-083829.png" group-title="PALKI CHANNELS CHANNELS", Green TV
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NjgzxKW/IMG-20240126-084336.png" group-title="PALKI CHANNELS CHANNELS",Independent TV
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg" group-title="PALKI CHANNELS CHANNELS",Jamuna TV
+http://cdn01.palki.tv/live/JamunaTV-M/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/1nY7r1L/IMG-20240129-063448.jpg" group-title="PALKI CHANNELS CHANNELS",MY TV
+http://cdn01.palki.tv/live/MyTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/1dJrphZ/IMG-20240129-063657.png",Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="PALKI CHANNELS CHANNELS",GAZI TV
+http://cdn01.palki.tv/live/GaziTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/Gt1zkqS/IMG-20240129-063013.png",Bangla Tv
+http://cdn01.palki.tv/live/BanglaTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS"tvg-logo="https://i.ibb.co/bvJByBV/IMG-20240126-112413.jpg",Bijoy TV
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/kS8pK5H/IMG-20240129-062928.png",Anando Tv
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/54LQ5Mz/IMG-20240126-092402.png",Mohona TV
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS"tvg-logo="https://i.ibb.co/BK12TH7/IMG-20240126-092224.png",R TV
+http://cdn01.palki.tv/live/RTV-M/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MnQK7Gt/IMG-20240129-063323.png" group-title="PALKI CHANNELS CHANNELS",Asian TV
+http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/HTf0zzr/IMG-20240126-092334.jpg",Deepto TV
+http://cdn01.palki.tv/live/DeeptoTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/JphS5Vz/IMG-20240126-092252.png",SA TV
+http://cdn01.palki.tv/live/SATV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.png", EKUSHEY TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/64H4Wkx/IMG-20240126-091821.png"group-title="PALKI CHANNELS CHANNELS",NTV EUROPE
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9rGqL99/IMG-20240320-114336.jpg" group-title="PALKI CHANNELS", GLOBAL TV
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mf2Xppw/IMG-20240126-111943.jpg" group-title="PALKI CHANNELS", GAAN BANGLA TV
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7DJWvg/IMG-20240320-115732.jpg" group-title="BDIX CHANNELS", DURONTO TV
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS"tvg-logo="https://i.ibb.co/XzP9JK8/IMG-20240126-113020.png",Nexus TV
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+#EXTINF:-1 group-title="PALKI CHANNELS CHANNELS" tvg-logo="https://i.ibb.co/pzwWtLg/IMG-20240320-114517.jpg",Desh TV
+http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L5DsYMv/IMG-20240205-094204.jpg" group-title="PALKI CHANNELS", MADANI TV BANGLA
+http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
+
