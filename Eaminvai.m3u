@@ -257,3 +257,43 @@ https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
 #EXTINF:-1 group-title="JAGOBD  CHANNELS" tvg-logo="https://i.ibb.co/hW5V8j0/IMG-20240126-101107.jpg",Nasa TV 
 https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
 
+
+
+
+
+
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/VjGgqcc/images-2024-03-02-T220831-913.jpg",ISLAM Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/1nY7r1L/IMG-20240129-063448.jpg" group-title="MIX  CHANNELS",MY TV
+https://myflixbd.com/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M8psvPP/IMG-20240126-084956.jpg" group-title="MIX  CHANNELS",Maasranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/SQyR6TT/IMG-20240126-092532.png",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MnQK7Gt/IMG-20240129-063323.png" group-title="MIX  CHANNELS",Asian TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/Gt1zkqS/IMG-20240129-063013.png",Bangla Tv
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS"tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/02/bangla-tv-uk.jpg.jpg",Bangla TV Europe
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.png",ETV BANGLA
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="82" tvg-logo="https://i.ibb.co/jGjvFwG/IMG-20240320-114025.png" group-title="MIX  CHANNELS",Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vVPgYDX/IMG-20240126-103034.png" group-title="MIX  CHANNELS",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/27tnt11/IMG-20240126-112025.jpg",Cumilla TV
+http://103.149.142.133/0.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/BKW8SBB/IMG-20240320-114558.jpg",TBN 24
+https://dog.dg21bd.com/TBN24WEBUSA/index.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/z8cPBwx/IMG-20240330-183245.jpg",Sananda Tv
+https://fr.tvanondo.online/sananda/video.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS" tvg-logo="https://i.ibb.co/L6PkCht/IMG-20240129-064656.jpg",Amar Digital 
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zNTwtbc/IMG-20240126-092809.png"group-title="MIX  CHANNELS",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="MIX  CHANNELS"tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+
+
+
